@@ -8,11 +8,22 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="uighana-007" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About The Ghana Music and Dance Initiative;About the Agoo-Bi Nii Cultural Arts Center" %}
 
-## About CollectionBuilder CSV
+## About The Ghana Music and Dance Initiative
+
+The Ghana Music and Dance initiative was started as a cooperative effort from ethnomusicologists, digital librarians, and Ghanian music specialists to actively document and preserve the sounds, dances, and traditions of Ghanian music. Liam Marchant, Center for Digital Inquiry and Learning 2021 Undergraduate Fellow, and Professor of ethnomusicology at the University of Idaho, Barry Bilderback, connected with Habib Iddrisu from the Univeristy of Oregon to create an engaging, accessable, and easy-to-update platform for video, photography, and audio recordings collected by the Agoo-Bi Nii Center and other various repositories of Ghanian dance and music.
+
+The team plans to travel to Ghana next summer (2022) to supplement this digital collection with more recordings, video, photographs, and vital information to help ensure the elevation of individual artists, composers, and dancers. The goal of the Ghana Music and Dance Initiative is to highlight the ensembles, traditions, and individuals partaking in them. For the continued effectiveness of the collection, it is essential that the Ghana Music and Dance Initiative works on the same goals as the Agoo-Bi Nii Cultural Arts Center in looking to identify specific musicians and give credit where credit is due. 
+
+
+## About The Agoo-Bi Nii Cultural Arts Center
+
+ANCA (NGO), based in Ghana and dedicated to preserving,promoting, developing, and passing on the authentic cultural performing arts of Ghana. They provide quality journalism and information about the state of music and dance culture from around the country. The Agoo-Bi Nii Cultural Arts Center is comitted to cultivating the next generation of Ghanaian musicians by sharing the wisdom and expertise of the previous generations.
+
+## About Collection Builder
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
