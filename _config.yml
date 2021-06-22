@@ -44,10 +44,10 @@ metadata: ghana_metadata
 page_gen:
   - data: 'ghana_metadata'
   - data: 'ghana_glossary'
-    template: 'terms'
+    template: 'term'
     name: 'slug'
     dir: 'glossary'
-    filter: nil
+    filter: 'slug'
 
 ##########
 # GOOGLE SERVICES [optional!]

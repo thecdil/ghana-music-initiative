@@ -1,14 +1,22 @@
 ---
 title: Glossary
-layout: page
+layout: about
 permalink: /glossary/
 ---
 
+<style>
+    .narrow {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 650px;
+    }
+</style>
+
 # Glossary
 
-{% capture letters %}{% for item in site.data.hjccc_glossary %}{{ item.term | slice: 0 | capitalize }};{% endfor %}{% endcapture %}
+{% capture letters %}{% for item in site.data.ghana_glossary %}{{ item.term | slice: 0 | capitalize }};{% endfor %}{% endcapture %}
 {%- assign uniqueLetters = letters | split: ';' | uniq | sort -%}
-{%- assign glossary = site.data.hjccc_glossary | sort: "term" -%}
+{%- assign glossary = site.data.ghana_glossary | sort: "term" -%}
 
 <ul class="list-inline">
 {% for letter in uniqueLetters %}
@@ -17,7 +25,7 @@ permalink: /glossary/
 </ul>
 <hr>
 
-<div>
+<div class="narrow">
 
 {% for letter in uniqueLetters %}
 <h2 class="pt-4" id="{{ letter }}">{{ letter }}</h2>
