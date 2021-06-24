@@ -6,6 +6,9 @@ Locations,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
-About,/about.html,
-Instrument Tree,/instrument-tree.html,
-Glossary,/glossary/
+About
+About the Project,/about.html,About
+Bibliography,/bibliography.html,About
+Terms
+Glossary,/glossary/,Terms
+Trees,/trees/,Terms
