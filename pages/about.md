@@ -23,7 +23,7 @@ The team plans to travel to Ghana next summer (2022) to supplement this digital 
 
 ANCA (NGO), based in Ghana and dedicated to preserving,promoting, developing, and passing on the authentic cultural performing arts of Ghana. They provide quality journalism and information about the state of music and dance culture from around the country. The Agoo-Bi Nii Cultural Arts Center is comitted to cultivating the next generation of Ghanaian musicians by sharing the wisdom and expertise of the previous generations.
 
-## About Collection Builder
+## About CollectionBuilder
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
