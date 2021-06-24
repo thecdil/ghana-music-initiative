@@ -1,0 +1,21 @@
+{ 
+    "title": "Ghana Music and Dance Initiative",
+    "url": "https://www.lib.uidaho.edu/demo/",
+    "image": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-008.jpg", 
+    "description": "A Collaboration Between the Agoo-Bi Nii Cultural Arts Center and Digital Humanities Archivists at the University of Idaho Center for Digital Inquiry and Learning",
+    "publisher": { 
+        "name": "Agoo-Bi Nii Cultural Arts & UI CDIL", 
+        "url": "https://www.facebook.com/agoobiniiculturalarts/", 
+        "logo": "" 
+    },
+    "date_start": "1966",
+    "date_end": "2018",
+    "objects": {
+        "video/mp4": "12",
+        "image/jpg": "18"
+        
+    },
+    "data": "https://www.lib.uidaho.edu/demo/assets/data/datapackage.json",
+    "last_build_date": "2021-06-24"
+}
+

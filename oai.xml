@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" 
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
+                                http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+    <Identify>
+        <oai:repositoryName>Ghana Music and Dance Initiative</oai:repositoryName>
+        <oai:baseURL>http://gateway.institution.org/oai/www.lib.uidaho.edu/demo/oai.xml</oai:baseURL>
+        <oai:protocolVersion>2.0</oai:protocolVersion>
+        <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
+        <oai:earliestDatestamp>2021-06-24</oai:earliestDatestamp>
+        <oai:deletedRecord>no</oai:deletedRecord>
+        <oai:granularity>YYYY-MM-DD</oai:granularity>
+    </Identify>
+    <ListMetadataFormats>
+        <oai:metadataFormat>
+            <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+            <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+            <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+        </oai:metadataFormat>
+    </ListMetadataFormats>
+    <ListRecords metadataPrefix="oai_dc">
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006a</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>SeneGal</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Senegal</dc:description>
+                    <dc:subject>dance; Ga; Senegal</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006a</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006a.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006b</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Sobima</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Sobima</dc:description>
+                    <dc:subject>dance; Ga; Sobima</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006b</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006b.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006c</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Sanka</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Sanka</dc:description>
+                    <dc:subject>dance; Ga; Sanka</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006c</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006c.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006d</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Gahu</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Gahu</dc:description>
+                    <dc:subject>dance; Eʋe; Gahu</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006d</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006d.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006e</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kpanlogo</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Kpanlogo</dc:description>
+                    <dc:subject>dance; Ga; Kpanlogo</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006e</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006e.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006f</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kpatsa</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Kpatsa</dc:description>
+                    <dc:subject>dance; Ga; Eʋe; Kpatsa</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006f</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006f.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006g</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Femefeme</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Femefeme</dc:description>
+                    <dc:subject>dance; Ga; Femefeme</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006g</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006g.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006h</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Setse</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Setse</dc:description>
+                    <dc:subject>dance; Ga; Setse</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006h</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006h.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-006i</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Gome</dc:title>
+                    <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Gome</dc:description>
+                    <dc:subject>dance; Ga; Gome</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-006i</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-006i.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-007</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kpanlogo Drum</dc:title>
+                    <dc:creator>Allan Fraser – Strobilus</dc:creator>
+                    <dc:date>2007-04-02</dc:date><dc:description>Musician playing two kpanlogo drums with sticks</dc:description>
+                    <dc:subject>dance; Kpanlogo; Ga</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-007</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-008</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ehtnicities of Ghana</dc:title>
+                    <dc:creator>Accra : Survey Division</dc:creator>
+                    <dc:date>1966</dc:date><dc:description>Map showing the predmoninant boundaries of various ethnicities in Ghana</dc:description>
+                    <dc:subject>Ga; Akan; Dagbamba; Eʋe</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-008</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-009</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kpeve ceremonial Dancer</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>A female dancer in the Kpeve village is seen displaying the physical embodiment of the transpossetion practice evidenced by chalk on the face, the staw skirt, and the ceremonial knife she wields. The knife is used to thrust into oneself in the straw skirt, often leaving scratches and abrasions.</dc:description>
+                    <dc:subject>Eʋe; Volta; ceremonial dance;</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-009</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-010</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Blessing of the Young Prophets</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>The young prophets of the Kpeve village are blessed by the outer shrine in front of a physical depiction of Mawu.</dc:description>
+                    <dc:subject>Eʋe; Volta; ceremonial dance;</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-010</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-011</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kpando ceremonial Dancer</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt.</dc:description>
+                    <dc:subject>Eʋe; Volta; ceremonial dance;</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-011</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-012</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Tamale Circular Dance</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Dancers in Tamale Gather in a circle for a community performance. </dc:description>
+                    <dc:subject>Dagbamba; northern; </dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-012</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-012.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-013</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kusun Cultral Center: Ga Perform Eʋe</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.</dc:description>
+                    <dc:subject>Accra; Ga; Eʋe; Nungua</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-013</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-014</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kusun Cultral Center: Ga Perform Eʋe</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.</dc:description>
+                    <dc:subject>Accra; Ga; Eʋe; Nungua</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-014</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-014.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-015</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kusun Cultral Center: Ga Perform Eʋe</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.</dc:description>
+                    <dc:subject>Accra; Ga; Eʋe; Nungua</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-015</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-015.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-016</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Kusun Cultral Center: Ga Perform Eʋe</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.</dc:description>
+                    <dc:subject>Accra; Ga; Eʋe; Nungua</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-016</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-016.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-017</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Homowo Festival</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Elders dressed in white process through the road as part of the Homowo festival.</dc:description>
+                    <dc:subject>Homowo; Ga; harvest;</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-017</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-017.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-018</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ga Instruments</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Instrument storage facility in the Ga region.</dc:description>
+                    <dc:subject>Ga; instruments</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-018</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-018.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-019</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Tamale Houses</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Houses in Tamale indicative by the clay walls and foundation with the straw thatched roofs.</dc:description>
+                    <dc:subject>Dagbamba; Tamale; houses</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-019</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-019.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-020</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Tamale Drum Ensemble</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance.</dc:description>
+                    <dc:subject>Dagbamba; Tamale; ensemble</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-020</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-020.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-021</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Tamale Recreational Dance</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>A recreational ring dance comprised of side-stepping. Over time, the participant dancers move counter clock wise. Some dancers can be seen wearing ankle bells.</dc:description>
+                    <dc:subject>Dagbamba; Tamale; ensemble; recreation; dance</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-021</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-021.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-022</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Hunor Gatukpe DoGah and Eʋe Drum Ensemble in the Kpeve Village</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe DoGah is seen playing the atopani.</dc:description>
+                    <dc:subject>Kpeve; Eʋe; ensemble; ceremony; atopani</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-022</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-022.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-023</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Nunya Music Academy Brass Band</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.</dc:description>
+                    <dc:subject>brass; Dzodze</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-023</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-023.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-024</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Nunya Music Academy Brass Band</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.</dc:description>
+                    <dc:subject>brass; Dzodze</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-024</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-024.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-025</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Nunya Music Academy Brass Band</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.</dc:description>
+                    <dc:subject>brass; Dzodze</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-025</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-025.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-026</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Homowo Procession</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Elders dressed in white process through the road as part of the Homowo festival. One can be seen blowing into a horn [Lãdzo?]</dc:description>
+                    <dc:subject>Homowo; Ga; harvest;</dc:subject>
+                    <dc:type>Image;MovingImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-026</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-026.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:www.lib.uidaho.edu:demo/uighana-027</oai:identifier> 
+                <oai:datestamp>2021-06-24</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ga Ensemble at Homowo</dc:title>
+                    <dc:creator>Barry Bilderback</dc:creator>
+                    <dc:date>2018</dc:date><dc:description>Ga musicians seen performing on custom drums, resembling Eʋe atopani at Homowo.</dc:description>
+                    <dc:subject>Homowo; Ga; harvest; ensemble</dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
+                    <dc:identifier>uighana-027</dc:identifier>
+                    <dc:identifier>https://www.lib.uidaho.edu/demo/items/uighana-027.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+    </ListRecords>
+</Repository>

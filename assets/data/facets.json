@@ -1,0 +1,57 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "ga": 18,
+                "dance": 11,
+                "eʋe": 11,
+                "dagbamba": 5,
+                "accra": 4,
+                "nungua": 4,
+                "ensemble": 4,
+                "volta": 3,
+                "ceremonial dance": 3,
+                "homowo": 3,
+                "harvest": 3,
+                "tamale": 3,
+                "brass": 3,
+                "dzodze": 3,
+                "kpanlogo": 2,
+                "senegal": 1,
+                "sobima": 1,
+                "sanka": 1,
+                "gahu": 1,
+                "kpatsa": 1,
+                "femefeme": 1,
+                "setse": 1,
+                "gome": 1,
+                "akan": 1,
+                "northern": 1,
+                "instruments": 1,
+                "houses": 1,
+                "recreation": 1,
+                "kpeve": 1,
+                "ceremony": 1,
+                "atopani": 1
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "barry bilderback": 19,
+                "felix akusa adjetey sowah": 9,
+                "allan fraser – strobilus": 1,
+                "accra : survey division": 1
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "image/jpg": 18,
+                "video/mp4": 12
+            }
+        }
+        
+    ]
+}

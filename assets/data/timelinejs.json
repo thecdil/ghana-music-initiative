@@ -1,0 +1,438 @@
+{
+    "title": {
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-008.jpg",
+          "caption": null,
+          "credit": "Ghana Music and Dance Initiative"
+        },
+        "text": {
+          "headline": "Ghana Music and Dance Initiative Timeline",
+          "text": "A Collaboration Between the Agoo-Bi Nii Cultural Arts Center and Digital Humanities Archivists at the University of Idaho Center for Digital Inquiry and Learning"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://img.youtube.com/vi/YStk0XusxJA/hqdefault.jpg",
+          "caption": "SeneGal",
+          "link": "/demo/items/uighana-006a.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "SeneGal",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Senegal"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/ZCiWLWlefHA/hqdefault.jpg",
+          "caption": "Sobima",
+          "link": "/demo/items/uighana-006b.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Sobima",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Sobima"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/Oi8ndqgsL5s/hqdefault.jpg",
+          "caption": "Sanka",
+          "link": "/demo/items/uighana-006c.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Sanka",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Sanka"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/KCi0AeMaB94/hqdefault.jpg",
+          "caption": "Gahu",
+          "link": "/demo/items/uighana-006d.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Gahu",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Gahu"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/9dwwWZ3_5j4/hqdefault.jpg",
+          "caption": "Kpanlogo",
+          "link": "/demo/items/uighana-006e.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Kpanlogo",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Kpanlogo"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/lQGR00TzfaA/hqdefault.jpg",
+          "caption": "Kpatsa",
+          "link": "/demo/items/uighana-006f.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Kpatsa",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Kpatsa"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/edQjlG5SfzA/hqdefault.jpg",
+          "caption": "Femefeme",
+          "link": "/demo/items/uighana-006g.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Femefeme",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Femefeme"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/Yscjl7u56kA/hqdefault.jpg",
+          "caption": "Setse",
+          "link": "/demo/items/uighana-006h.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Setse",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Setse"
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/mHZNUod80KE/hqdefault.jpg",
+          "caption": "Gome",
+          "link": "/demo/items/uighana-006i.html"
+        },
+        "start_date": { 
+          
+          "year": "2005"
+        },
+        "text": {
+          "headline": "Gome",
+          "text": "The Teshie-Nungua Cultural Dance Troupe performs Gome"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-007_sm.jpg",
+          "caption": "Kpanlogo Drum",
+          "link": "/demo/items/uighana-007.html"
+        },
+        "start_date": { 
+          
+          "month": "04",
+          "day": "02",
+          "year": "2007"
+        },
+        "text": {
+          "headline": "Kpanlogo Drum",
+          "text": "Musician playing two kpanlogo drums with sticks"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-008_sm.jpg",
+          "caption": "Ehtnicities of Ghana",
+          "link": "/demo/items/uighana-008.html"
+        },
+        "start_date": { 
+          
+          "year": "1966"
+        },
+        "text": {
+          "headline": "Ehtnicities of Ghana",
+          "text": "Map showing the predmoninant boundaries of various ethnicities in Ghana"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-009_sm.jpg",
+          "caption": "Kpeve ceremonial Dancer",
+          "link": "/demo/items/uighana-009.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Kpeve ceremonial Dancer",
+          "text": "A female dancer in the Kpeve village is seen displaying the physical embodiment of the transpossetion practice evidenced by chalk on the face, the staw skirt, and the ceremonial knife she wields. The knife is used to thrust into oneself in the straw skirt, often leaving scratches and abrasions."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-010_sm.jpg",
+          "caption": "Blessing of the Young Prophets",
+          "link": "/demo/items/uighana-010.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Blessing of the Young Prophets",
+          "text": "The young prophets of the Kpeve village are blessed by the outer shrine in front of a physical depiction of Mawu."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-011_sm.jpg",
+          "caption": "Kpando ceremonial Dancer",
+          "link": "/demo/items/uighana-011.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Kpando ceremonial Dancer",
+          "text": "A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-012_sm.jpg",
+          "caption": "Tamale Circular Dance",
+          "link": "/demo/items/uighana-012.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Tamale Circular Dance",
+          "text": "Dancers in Tamale Gather in a circle for a community performance. "
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-013_sm.jpg",
+          "caption": "Kusun Cultral Center: Ga Perform Eʋe",
+          "link": "/demo/items/uighana-013.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Kusun Cultral Center: Ga Perform Eʋe",
+          "text": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-014_sm.jpg",
+          "caption": "Kusun Cultral Center: Ga Perform Eʋe",
+          "link": "/demo/items/uighana-014.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Kusun Cultral Center: Ga Perform Eʋe",
+          "text": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-015_sm.jpg",
+          "caption": "Kusun Cultral Center: Ga Perform Eʋe",
+          "link": "/demo/items/uighana-015.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Kusun Cultral Center: Ga Perform Eʋe",
+          "text": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-016_sm.jpg",
+          "caption": "Kusun Cultral Center: Ga Perform Eʋe",
+          "link": "/demo/items/uighana-016.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Kusun Cultral Center: Ga Perform Eʋe",
+          "text": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-017_sm.jpg",
+          "caption": "Homowo Festival",
+          "link": "/demo/items/uighana-017.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Homowo Festival",
+          "text": "Elders dressed in white process through the road as part of the Homowo festival."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-018_sm.jpg",
+          "caption": "Ga Instruments",
+          "link": "/demo/items/uighana-018.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Ga Instruments",
+          "text": "Instrument storage facility in the Ga region."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-019_sm.jpg",
+          "caption": "Tamale Houses",
+          "link": "/demo/items/uighana-019.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Tamale Houses",
+          "text": "Houses in Tamale indicative by the clay walls and foundation with the straw thatched roofs."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-020_sm.jpg",
+          "caption": "Tamale Drum Ensemble",
+          "link": "/demo/items/uighana-020.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Tamale Drum Ensemble",
+          "text": "Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance."
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/ncTqGOU0DOM/hqdefault.jpg",
+          "caption": "Tamale Recreational Dance",
+          "link": "/demo/items/uighana-021.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Tamale Recreational Dance",
+          "text": "A recreational ring dance comprised of side-stepping. Over time, the participant dancers move counter clock wise. Some dancers can be seen wearing ankle bells."
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/XPjZwzRKRi8/hqdefault.jpg",
+          "caption": "Hunor Gatukpe DoGah and Eʋe Drum Ensemble in the Kpeve Village",
+          "link": "/demo/items/uighana-022.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Hunor Gatukpe DoGah and Eʋe Drum Ensemble in the Kpeve Village",
+          "text": "A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe DoGah is seen playing the atopani."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-023_sm.jpg",
+          "caption": "Nunya Music Academy Brass Band",
+          "link": "/demo/items/uighana-023.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Nunya Music Academy Brass Band",
+          "text": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-024_sm.jpg",
+          "caption": "Nunya Music Academy Brass Band",
+          "link": "/demo/items/uighana-024.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Nunya Music Academy Brass Band",
+          "text": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo."
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-025_sm.jpg",
+          "caption": "Nunya Music Academy Brass Band",
+          "link": "/demo/items/uighana-025.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Nunya Music Academy Brass Band",
+          "text": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo."
+        }
+      },{
+        "media": {
+          "url": "https://img.youtube.com/vi/0Rg02iJHTl0/hqdefault.jpg",
+          "caption": "Homowo Procession",
+          "link": "/demo/items/uighana-026.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Homowo Procession",
+          "text": "Elders dressed in white process through the road as part of the Homowo festival. One can be seen blowing into a horn [Lãdzo?]"
+        }
+      },{
+        "media": {
+          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-027_sm.jpg",
+          "caption": "Ga Ensemble at Homowo",
+          "link": "/demo/items/uighana-027.html"
+        },
+        "start_date": { 
+          
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Ga Ensemble at Homowo",
+          "text": "Ga musicians seen performing on custom drums, resembling Eʋe atopani at Homowo."
+        }
+      }
+    ]
+}
