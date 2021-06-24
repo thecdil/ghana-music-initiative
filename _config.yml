@@ -41,13 +41,13 @@ organization-logo-nav:
 metadata: ghana_metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+page_gen:
+  - data: 'ghana_metadata'
+  - data: 'ghana_glossary'
+    template: 'term'
+    name: 'slug'
+    dir: 'glossary'
+    filter: 'slug'
 
 ##########
 # GOOGLE SERVICES [optional!]
