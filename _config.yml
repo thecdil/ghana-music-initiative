@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: https://thecdil.github.io/
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo
+baseurl: /ghana-music-initiative
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 
@@ -41,13 +41,14 @@ organization-logo-nav:
 metadata: ghana_metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
-# page_gen:
-#   - data: 'demo-metadata'
-#     template: 'item'
-#     name: 'objectid'
-#     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+page_gen:
+  - data: 'ghana_metadata'
+  - data: 'ghana_glossary'
+    template: 'term'
+    name: 'slug'
+    dir: 'glossary'
+    filter: 'slug'
+#  - data: 'ghana_trees'
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -61,7 +62,7 @@ metadata: ghana_metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+noindex: true 
 
 ##########
 # BUILD SETTINGS 
