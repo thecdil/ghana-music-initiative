@@ -34,10 +34,10 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>SeneGal</dc:title>
+                    <dc:title>Senegal</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Senegal</dc:description>
-                    <dc:subject>dance; Ga; Senegal</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Senegal. The ensemble is (left to right, back row): tubano, ƞono. The three sitting are playing three distinct drums each. The left most musician is playing on the atswereshie and conducting the calls and form of the ensemble. The middle seated one is performing on an atswereshie, Eʋe sogo, and Eʋe Kidi. The musician in the far right is playing the atswereshie and Eʋe kagan.</dc:description>
+                    <dc:subject>dance; Ga; Senegal; tubano; ƞono; atswereshie; kpanlogo; sogo; kidi; Eʋe; kagan; </dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006a</dc:identifier>
@@ -60,8 +60,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Sobima</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Sobima</dc:description>
-                    <dc:subject>dance; Ga; Sobima</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Sobima. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, atswereshie, Eʋe kagan.</dc:description>
+                    <dc:subject>dance; Ga; Sobima; ƞono; shekeshe; atswereshie; kpanlogo; kagan;</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006b</dc:identifier>
@@ -84,8 +84,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Sanka</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Sanka</dc:description>
-                    <dc:subject>dance; Ga; Sanka</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Sanka. The ensemble is (left to right, back to front): tubano, ƞono, shekeshe, atswereshie, Eʋe kagan.</dc:description>
+                    <dc:subject>dance; Ga; Sanka; tubano; ƞono; shekeshe; atswereshie; Eʋe; kagan</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006c</dc:identifier>
@@ -108,8 +108,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Gahu</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Gahu</dc:description>
-                    <dc:subject>dance; Eʋe; Gahu</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs the Central Eʋe dance, Gahu. The ensemble is (left to right, back to front): ƞono, shekeshe, Eʋe sogo, Eʋe kidi, Eʋe kagan.</dc:description>
+                    <dc:subject>dance; Eʋe; Gahu; ƞono; shekeshe; Eʋe; sogo; kidi; kagan;</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006d</dc:identifier>
@@ -132,8 +132,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Kpanlogo</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Kpanlogo</dc:description>
-                    <dc:subject>dance; Ga; Kpanlogo</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Kpanlogo. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, atswereshie, atswereshie.</dc:description>
+                    <dc:subject>dance; Ga; Kpanlogo; ƞono; shekeshe; atswereshie;</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006e</dc:identifier>
@@ -156,8 +156,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Kpatsa</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Kpatsa</dc:description>
-                    <dc:subject>dance; Ga; Eʋe; Kpatsa</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Kpatsa, primarily practiced by Ga-Adangbe and Eʋe. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, Eʋe sogo, and Eʋe kagan.</dc:description>
+                    <dc:subject>dance; Ga; Eʋe; Kpatsa; ƞono; shekeshe; atswereshie; kpanlogo; Eʋe; sogo; kagan;</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006f</dc:identifier>
@@ -180,8 +180,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Femefeme</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Femefeme</dc:description>
-                    <dc:subject>dance; Ga; Femefeme</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Femefeme. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, atswereshie, atswereshie.</dc:description>
+                    <dc:subject>dance; Ga; Femefeme; ƞono; shekshe; atswereshie; kpanlogo</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006g</dc:identifier>
@@ -204,8 +204,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Setse</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Setse</dc:description>
-                    <dc:subject>dance; Ga; Setse</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Setse. The ensemble is (left to right, back to front): Eʋe mba (bamboo clappers), ƞono, shekeshe, atswereshie, atswereshie, atswereshie.</dc:description>
+                    <dc:subject>dance; Ga; Setse; Eʋe; mba; ƞono; shekeshe; atswereshie; kpanlogo; </dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006h</dc:identifier>
@@ -228,8 +228,8 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Gome</dc:title>
                     <dc:creator>Felix Akusa Adjetey Sowah</dc:creator>
-                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Gome</dc:description>
-                    <dc:subject>dance; Ga; Gome</dc:subject>
+                    <dc:date>2005</dc:date><dc:description>The Teshie-Nungua Cultural Dance Troupe performs Gome. The ensemble is (left to right, back to front): shekshe, ƞono, gome, atswereshie, atswereshie.</dc:description>
+                    <dc:subject>dance; Ga; Gome; shekeshe; ƞono; gome; atswereshie; kpanlogo; </dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006i</dc:identifier>
@@ -564,7 +564,7 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Tamale Drum Ensemble</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance.</dc:description>
+                    <dc:date>2018</dc:date><dc:description>Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance. Instruments left to right: three bottle-neck drums [ʋuvi?], the two bottle-neck drums in the center seem to be positioned to be played as a pair. The tall drum on the far right might be a &lt;a href=“{{ ‘/bibliography.html#ade’ | younge }}”&gt;taʋugã.&lt;/a&gt; </dc:description>
                     <dc:subject>Dagbamba; Tamale; ensemble</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
@@ -610,9 +610,9 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Hunor Gatukpe DoGah and Eʋe Drum Ensemble in the Kpeve Village</dc:title>
+                    <dc:title>Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe DoGah is seen playing the atopani.</dc:description>
+                    <dc:date>2018</dc:date><dc:description>A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe Dogah is seen playing the atopani.</dc:description>
                     <dc:subject>Kpeve; Eʋe; ensemble; ceremony; atopani</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
@@ -637,7 +637,7 @@
                     <dc:title>Nunya Music Academy Brass Band</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
                     <dc:date>2018</dc:date><dc:description>The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.</dc:description>
-                    <dc:subject>brass; Dzodze</dc:subject>
+                    <dc:subject>brass; Dzodze; Eʋe; tuba; horn; trumpet; trombone;</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-023</dc:identifier>
@@ -661,7 +661,7 @@
                     <dc:title>Nunya Music Academy Brass Band</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
                     <dc:date>2018</dc:date><dc:description>The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.</dc:description>
-                    <dc:subject>brass; Dzodze</dc:subject>
+                    <dc:subject>brass; Dzodze; Eʋe; tuba; horn; trumpet; trombone;</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-024</dc:identifier>
@@ -682,10 +682,10 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Nunya Music Academy Brass Band</dc:title>
+                    <dc:title>Nunya Music Percussion Ensemble</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.</dc:description>
-                    <dc:subject>brass; Dzodze</dc:subject>
+                    <dc:date>2018</dc:date><dc:description>The Nunya Music Academy under the direction of Prosper Gbolonyo. Seen in the photograph (left to right): kidi, sogo, kagan, atsimeʋu. A djembe is also in front of the sogo.</dc:description>
+                    <dc:subject>brass; Dzodze; kidi; sogol; kagan; atsimeʋu; Eʋe</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-025</dc:identifier>

@@ -1,37 +1,37 @@
 var store = [{  
-"title": "SeneGal","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Senegal","subject": "dance; Ga; Senegal","location": "Accra", 
+"title": "Senegal","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Senegal. The ensemble is (left to right, back row): tubano, ƞono. The three sitting are playing three distinct drums each. The left most musician is playing on the atswereshie and conducting the calls and form of the ensemble. The middle seated one is performing on an atswereshie, Eʋe sogo, and Eʋe Kidi. The musician in the far right is playing the atswereshie and Eʋe kagan.","subject": "dance; Ga; Senegal; tubano; ƞono; atswereshie; kpanlogo; sogo; kidi; Eʋe; kagan;","location": "Accra", 
 "id": "uighana-006a"
 
 },{  
-"title": "Sobima","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Sobima","subject": "dance; Ga; Sobima","location": "Accra", 
+"title": "Sobima","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Sobima. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, atswereshie, Eʋe kagan.","subject": "dance; Ga; Sobima; ƞono; shekeshe; atswereshie; kpanlogo; kagan;","location": "Accra", 
 "id": "uighana-006b"
 
 },{  
-"title": "Sanka","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Sanka","subject": "dance; Ga; Sanka","location": "Accra", 
+"title": "Sanka","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Sanka. The ensemble is (left to right, back to front): tubano, ƞono, shekeshe, atswereshie, Eʋe kagan.","subject": "dance; Ga; Sanka; tubano; ƞono; shekeshe; atswereshie; Eʋe; kagan","location": "Accra", 
 "id": "uighana-006c"
 
 },{  
-"title": "Gahu","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Gahu","subject": "dance; Eʋe; Gahu","location": "Accra", 
+"title": "Gahu","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs the Central Eʋe dance, Gahu. The ensemble is (left to right, back to front): ƞono, shekeshe, Eʋe sogo, Eʋe kidi, Eʋe kagan.","subject": "dance; Eʋe; Gahu; ƞono; shekeshe; Eʋe; sogo; kidi; kagan;","location": "Accra", 
 "id": "uighana-006d"
 
 },{  
-"title": "Kpanlogo","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Kpanlogo","subject": "dance; Ga; Kpanlogo","location": "Accra", 
+"title": "Kpanlogo","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Kpanlogo. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, atswereshie, atswereshie.","subject": "dance; Ga; Kpanlogo; ƞono; shekeshe; atswereshie;","location": "Accra", 
 "id": "uighana-006e"
 
 },{  
-"title": "Kpatsa","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Kpatsa","subject": "dance; Ga; Eʋe; Kpatsa","location": "Accra", 
+"title": "Kpatsa","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Kpatsa, primarily practiced by Ga-Adangbe and Eʋe. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, Eʋe sogo, and Eʋe kagan.","subject": "dance; Ga; Eʋe; Kpatsa; ƞono; shekeshe; atswereshie; kpanlogo; Eʋe; sogo; kagan;","location": "Accra", 
 "id": "uighana-006f"
 
 },{  
-"title": "Femefeme","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Femefeme","subject": "dance; Ga; Femefeme","location": "Accra", 
+"title": "Femefeme","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Femefeme. The ensemble is (left to right, back to front): ƞono, shekeshe, atswereshie, atswereshie, atswereshie.","subject": "dance; Ga; Femefeme; ƞono; shekshe; atswereshie; kpanlogo","location": "Accra", 
 "id": "uighana-006g"
 
 },{  
-"title": "Setse","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Setse","subject": "dance; Ga; Setse","location": "Accra", 
+"title": "Setse","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Setse. The ensemble is (left to right, back to front): Eʋe mba (bamboo clappers), ƞono, shekeshe, atswereshie, atswereshie, atswereshie.","subject": "dance; Ga; Setse; Eʋe; mba; ƞono; shekeshe; atswereshie; kpanlogo;","location": "Accra", 
 "id": "uighana-006h"
 
 },{  
-"title": "Gome","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Gome","subject": "dance; Ga; Gome","location": "Accra", 
+"title": "Gome","date": "2005","creator": "Felix Akusa Adjetey Sowah","description": "The Teshie-Nungua Cultural Dance Troupe performs Gome. The ensemble is (left to right, back to front): shekshe, ƞono, gome, atswereshie, atswereshie.","subject": "dance; Ga; Gome; shekeshe; ƞono; gome; atswereshie; kpanlogo;","location": "Accra", 
 "id": "uighana-006i"
 
 },{  
@@ -87,7 +87,7 @@ var store = [{
 "id": "uighana-019"
 
 },{  
-"title": "Tamale Drum Ensemble","date": "2018","creator": "Barry Bilderback","description": "Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance.","subject": "Dagbamba; Tamale; ensemble","location": "Tamale", 
+"title": "Tamale Drum Ensemble","date": "2018","creator": "Barry Bilderback","description": "Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance. Instruments left to right: three bottle-neck drums [ʋuvi?], the two bottle-neck drums in the center seem to be positioned to be played as a pair. The tall drum on the far right might be a <a href=“{{ ‘/bibliography.html#ade’ | younge }}”>taʋugã.</a>","subject": "Dagbamba; Tamale; ensemble","location": "Tamale", 
 "id": "uighana-020"
 
 },{  
@@ -95,19 +95,19 @@ var store = [{
 "id": "uighana-021"
 
 },{  
-"title": "Hunor Gatukpe DoGah and Eʋe Drum Ensemble in the Kpeve Village","date": "2018","creator": "Barry Bilderback","description": "A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe DoGah is seen playing the atopani.","subject": "Kpeve; Eʋe; ensemble; ceremony; atopani","location": "Kpeve", 
+"title": "Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village","date": "2018","creator": "Barry Bilderback","description": "A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe Dogah is seen playing the atopani.","subject": "Kpeve; Eʋe; ensemble; ceremony; atopani","location": "Kpeve", 
 "id": "uighana-022"
 
 },{  
-"title": "Nunya Music Academy Brass Band","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.","subject": "brass; Dzodze","location": "Dzodze", 
+"title": "Nunya Music Academy Brass Band","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.","subject": "brass; Dzodze; Eʋe; tuba; horn; trumpet; trombone;","location": "Dzodze", 
 "id": "uighana-023"
 
 },{  
-"title": "Nunya Music Academy Brass Band","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.","subject": "brass; Dzodze","location": "Dzodze", 
+"title": "Nunya Music Academy Brass Band","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.","subject": "brass; Dzodze; Eʋe; tuba; horn; trumpet; trombone;","location": "Dzodze", 
 "id": "uighana-024"
 
 },{  
-"title": "Nunya Music Academy Brass Band","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy Brass Band performs under the direction of Prosper Gbolonyo.","subject": "brass; Dzodze","location": "Dzodze", 
+"title": "Nunya Music Percussion Ensemble","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy under the direction of Prosper Gbolonyo. Seen in the photograph (left to right): kidi, sogo, kagan, atsimeʋu. A djembe is also in front of the sogo.","subject": "brass; Dzodze; kidi; sogol; kagan; atsimeʋu; Eʋe","location": "Dzodze", 
 "id": "uighana-025"
 
 },{  
