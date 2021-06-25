@@ -48,7 +48,11 @@ page_gen:
     name: 'slug'
     dir: 'glossary'
     filter: 'slug'
-#  - data: 'ghana_trees'
+  - data: 'ghana_trees'
+    template: 'tree'
+    name: 'slug'
+    dir: 'trees'
+    filter: 'slug'
 
 ##########
 # GOOGLE SERVICES [optional!]
