@@ -2,17 +2,17 @@
 <!-- load the d3.js library -->
 <script src="{{'assets/js/d3.v3.min.js' | relative_url }}"></script>
 <script>
-{% assign main = site.data.ghana_tree_instruments | map: 'category' | compact | uniq %}
+{% assign main = include.terms | map: 'category' | compact | uniq %}
 
     var treeData = [
 {
     "name": "Instruments",
     "children": [{% for mainitem in main %}
     {
-    "name": "{{mainitem}}", "children": [{% assign second-main = site.data.ghana_tree_instruments |  where_exp:"item","item.category == mainitem" | map: 'type' | uniq  %} {% for seconditem in second-main %}
+    "name": "{{mainitem}}", "children": [{% assign second-main = include.terms |  where_exp:"item","item.category == mainitem" | map: 'type' | uniq  %} {% for seconditem in second-main %}
         {
         "name": "{{seconditem}}",
-        "children": [{% assign node-main = site.data.ghana_tree_instruments |  where_exp:"item","item.type == seconditem"   %}{% for end in node-main %}
+        "children": [{% assign node-main = include.terms |  where_exp:"item","item.type == seconditem"   %}{% for end in node-main %}
             {
             "Category": "{{mainitem}}",
             "Type": "{{seconditem}}",
