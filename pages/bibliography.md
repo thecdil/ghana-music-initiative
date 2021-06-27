@@ -8,7 +8,7 @@ permalink: /bibliography.html
 
 Related research and resources:
 
-{% assign bib = site.data.bibliography %}
+{% assign bib = site.data.ghana_bibliography %}
 
 <ul>
 {% for b in bib %}

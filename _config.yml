@@ -12,7 +12,7 @@ url: https://thecdil.github.io/
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /ghana-music-initiative
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
+source-code: https://github.com/thecdil/ghana-music-initiative
 
 ##########
 # SITE SETTINGS
@@ -48,7 +48,11 @@ page_gen:
     name: 'slug'
     dir: 'glossary'
     filter: 'slug'
-#  - data: 'ghana_trees'
+  - data: 'ghana_trees'
+    template: 'tree'
+    name: 'slug'
+    dir: 'trees'
+    filter: 'slug'
 
 ##########
 # GOOGLE SERVICES [optional!]

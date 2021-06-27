@@ -1,12 +1,35 @@
 ---
 layout: default
 ---
+{% assign terms = site.data.trees[page.data] %}
+{% assign title = page.title %}
 
 <div class="container my-5">
-    {{content}}
+
+  <div class="container">
+      <ul class="breadcrumb">
+          <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li class="breadcrumb-item"><a href="{{ '/trees/' | relative_url }}">Term Trees</a></li>
+          <li class="breadcrumb-item active">{{ page.title }}</li>
+      </ul>
+  
+      <div class="row">
+          <div class="col-md-6" >
+              <h2>{{ page.title }} Instrument Tree</h2>
+          </div>
+          
+      <div id="tree" class="container"></div>
+
+      </div>
+      <div class="text-center">
+          <a class="btn btn-secondary" href="{{ '/trees/' | relative_url }}" role="button">&laquo; Trees</a>
+      </div>
+  </div>
+
 </div>
 
-<div id="tree" class="container p-4"></div>
+{% include js/tree-js.html terms=terms title=title %}
+
 <style>
     .node {
       cursor: pointer;
