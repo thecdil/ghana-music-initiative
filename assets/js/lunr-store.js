@@ -87,7 +87,7 @@ var store = [{
 "id": "uighana-019"
 
 },{  
-"title": "Tamale Drum Ensemble","date": "2018","creator": "Barry Bilderback","description": "Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance. Instruments left to right: three bottle-neck drums [ʋuvi?], the two bottle-neck drums in the center seem to be positioned to be played as a pair. The tall drum on the far right might be a <a href=“{{ ‘/bibliography.html#ade’ | younge }}”>taʋugã.</a>","subject": "Dagbamba; Tamale; ensemble","location": "Tamale", 
+"title": "Tamale Drum Ensemble","date": "2018","creator": "Barry Bilderback","description": "Four barrell shaped drums of varying sizes are used to accompany a recreational ring dance. Instruments left to right: three bottle-neck drums [ʋuvi?], the two bottle-neck drums in the center seem to be positioned to be played as a pair. The tall drum on the far right might be a <a href=“{{ ‘/bibliography.html#younge’ | younge }}”>taʋugã.</a>","subject": "Dagbamba; Tamale; ensemble","location": "Tamale", 
 "id": "uighana-020"
 
 },{  
