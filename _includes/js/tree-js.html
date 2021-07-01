@@ -2,27 +2,22 @@
 <!-- load the d3.js library -->
 <script src="{{'assets/js/d3.v3.min.js' | relative_url }}"></script>
 <script>
-{% assign main = include.terms | map: 'category' | compact | uniq %}
+{% assign main = include.terms | map: 'type' | compact | uniq %}
 
     var treeData = [
 {
-    "name": "Instruments",
+    "name": "{{ include.title }}",
     "children": [{% for mainitem in main %}
     {
-    "name": "{{mainitem}}", "children": [{% assign second-main = include.terms |  where_exp:"item","item.category == mainitem" | map: 'type' | uniq  %} {% for seconditem in second-main %}
-        {
-        "name": "{{seconditem}}",
-        "children": [{% assign node-main = include.terms |  where_exp:"item","item.type == seconditem"   %}{% for end in node-main %}
+    "name": "{{ mainitem }}", "children": [{% assign second-main = include.terms |  where_exp:"item","item.type == mainitem" | map: 'name' | uniq  %} {% for seconditem in second-main %}
             {
-            "Category": "{{mainitem}}",
-            "Type": "{{seconditem}}",
-            "Form": "{{end.name}}",
-            "name": "{{end.name}}",
-            "Description": "{{end.description}}",
-            "url": "{{ site.baseurl }}/browse#{{end.name}}"
+            "Category": "{{ mainitem }}",
+            "Type": "{{ seconditem }}",
+            "Form": "{{ seconditem }}",
+            "name": "{{ seconditem }}",
+            "Description": "blank",
+            "url": "{{ site.baseurl }}/browse#{{ seconditem }}"
             }{%unless forloop.last%},{% endunless %}{% endfor%}
-        ]
-        }{%unless forloop.last%},{% endunless %}{%endfor%}
     ]
     }{%unless forloop.last%},{% endunless %}{% endfor %}
 ]
