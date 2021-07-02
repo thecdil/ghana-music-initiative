@@ -16,7 +16,7 @@
             "Form": "{{ seconditem }}",
             "name": "{{ seconditem }}",
             "Description": "blank",
-            "url": "{{ site.baseurl }}/glossary/{{ end.slug }}"
+            "url": "{{ site.baseurl }}/glossary/{{ end.slug | append: '.html' }}"
             }{%unless forloop.last%},{% endunless %}{% endfor%}{%unless forloop.last%},{% endunless %}{% endfor %}
     ]
     }{%unless forloop.last%},{% endunless %}{% endfor %}
