@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-{% assign terms = site.data.trees[page.data] %}
-{% assign title = page.title %}
+{% assign terms = site.data.ghana_tree_instruments | where_exp: "term","term.category == page.title" %}
 
 <div class="container my-5">
 
@@ -28,7 +27,7 @@ layout: default
 
 </div>
 
-{% include js/tree-js.html terms=terms title=title %}
+{% include js/tree-js.html terms=terms title=page.title %}
 
 <style>
     .node {
