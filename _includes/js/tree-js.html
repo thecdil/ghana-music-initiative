@@ -9,15 +9,15 @@
     "name": "{{ include.title }}",
     "children": [{% for mainitem in main %}
     {
-    "name": "{{ mainitem }}", "children": [{% assign second-main = include.terms |  where_exp:"item","item.type == mainitem" | map: 'name' | uniq  %} {% for seconditem in second-main %}
+    "name": "{{ mainitem }}", "children": [{% assign second-main = include.terms |  where_exp: "item","item.type == mainitem" | map: 'name' | uniq  %} {% for seconditem in second-main %}{% assign node-main = include.terms | where_exp: "item","item.name == seconditem" %}{% for end in node-main %}
             {
             "Category": "{{ mainitem }}",
             "Type": "{{ seconditem }}",
             "Form": "{{ seconditem }}",
             "name": "{{ seconditem }}",
             "Description": "blank",
-            "url": "{{ site.baseurl }}/browse#{{ seconditem }}"
-            }{%unless forloop.last%},{% endunless %}{% endfor%}
+            "url": "{{ site.baseurl }}/glossary/{{ end.slug }}"
+            }{%unless forloop.last%},{% endunless %}{% endfor%}{%unless forloop.last%},{% endunless %}{% endfor %}
     ]
     }{%unless forloop.last%},{% endunless %}{% endfor %}
 ]
