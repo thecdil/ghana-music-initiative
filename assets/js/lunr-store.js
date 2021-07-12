@@ -35,7 +35,7 @@ var store = [{
 "id": "uighana-006i"
 
 },{  
-"title": "Kpanlogo Drum","date": "2007-04-02","creator": "Allan Fraser – Strobilus","description": "Musician playing two kpanlogo drums with sticks","subject": "dance; Kpanlogo; Ga","location": "Accra", 
+"title": "Kpanlogo Drum","date": "2007-04-02","creator": "Allan Fraser – Strobilus","description": "Musician playing two kpanlogo (atswereshie) drums with sticks","subject": "dance; Kpanlogo; Ga; atswereshie","location": "Accra", 
 "id": "uighana-007"
 
 },{  
@@ -67,11 +67,11 @@ var store = [{
 "id": "uighana-014"
 
 },{  
-"title": "Kusun Cultral Center: Ga Perform Eʋe","date": "2018","creator": "Barry Bilderback","description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.","subject": "Accra; Ga; Eʋe; Nungua","location": "Nungua, Accra", 
+"title": "Kusun Cultral Center: Ga Perform Eʋe","date": "2018","creator": "Barry Bilderback","description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble. Both dancers seems to be wearing skirts used in the adzogbo dance.","subject": "Accra; Ga; Eʋe; Nungua; adzogbo;","location": "Nungua, Accra", 
 "id": "uighana-015"
 
 },{  
-"title": "Kusun Cultral Center: Ga Perform Eʋe","date": "2018","creator": "Barry Bilderback","description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.","subject": "Accra; Ga; Eʋe; Nungua","location": "Nungua, Accra", 
+"title": "Kusun Cultral Center: Ga Perform Eʋe","date": "2018","creator": "Barry Bilderback","description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble. Both dancers seems to be wearing skirts used in the adzogbo dance.","subject": "Accra; Ga; Eʋe; Nungua; adzogbo;","location": "Nungua, Accra", 
 "id": "uighana-016"
 
 },{  
@@ -79,7 +79,7 @@ var store = [{
 "id": "uighana-017"
 
 },{  
-"title": "Ga Instruments","date": "2018","creator": "Barry Bilderback","description": "Instrument storage facility in the Ga region.","subject": "Ga; instruments", 
+"title": "Akan Instruments at the Manhyia Palace Museum","date": "2018","creator": "Barry Bilderback","description": "Various drums on display at the Manhyia Palace Museum. The two bottle-neck drums are constructed of wood, silver, and animal hyde and date back to the late 19th century.","subject": "Akan; instruments; Ashanti","location": "Kumasi", 
 "id": "uighana-018"
 
 },{  

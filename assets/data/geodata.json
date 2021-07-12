@@ -255,8 +255,8 @@
                 "title": "Kpanlogo Drum",
                 "creator": "Allan Fraser – Strobilus",
                 "date": "2007-04-02",
-                "description": "Musician playing two kpanlogo drums with sticks",
-                "subject": "dance; Kpanlogo; Ga",
+                "description": "Musician playing two kpanlogo (atswereshie) drums with sticks",
+                "subject": "dance; Kpanlogo; Ga; atswereshie",
                 "location": "Accra",
                 "latitude": "5.55",
                 "longitude": "-0.205",
@@ -471,8 +471,8 @@
                 "title": "Kusun Cultral Center: Ga Perform Eʋe",
                 "creator": "Barry Bilderback",
                 "date": "2018",
-                "description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.",
-                "subject": "Accra; Ga; Eʋe; Nungua",
+                "description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble. Both dancers seems to be wearing skirts used in the adzogbo dance.",
+                "subject": "Accra; Ga; Eʋe; Nungua; adzogbo;",
                 "location": "Nungua, Accra",
                 "latitude": "5.602882059",
                 "longitude": "-0.1862804716",
@@ -498,8 +498,8 @@
                 "title": "Kusun Cultral Center: Ga Perform Eʋe",
                 "creator": "Barry Bilderback",
                 "date": "2018",
-                "description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble.",
-                "subject": "Accra; Ga; Eʋe; Nungua",
+                "description": "Dancers at the Kusun Cultural Center in Nungua perform a variation of a traditional Eʋe dance with Ga ensemble accompaniment. Hunor Gatukpe Dogah directs the ensemble. Both dancers seems to be wearing skirts used in the adzogbo dance.",
+                "subject": "Accra; Ga; Eʋe; Nungua; adzogbo;",
                 "location": "Nungua, Accra",
                 "latitude": "5.602882059",
                 "longitude": "-0.1862804716",
@@ -540,6 +540,33 @@
                 "object_thumb": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-017_th.jpg",
                 "object_download": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-017.jpg",
                 "reference_url": "https://thecdil.github.io//ghana-music-initiative/items/uighana-017.html"
+            }
+        }, 
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[-1.615832474,6.703624138]
+            },            
+            "properties":{
+                "title": "Akan Instruments at the Manhyia Palace Museum",
+                "creator": "Barry Bilderback",
+                "date": "2018",
+                "description": "Various drums on display at the Manhyia Palace Museum. The two bottle-neck drums are constructed of wood, silver, and animal hyde and date back to the late 19th century.",
+                "subject": "Akan; instruments; Ashanti",
+                "location": "Kumasi",
+                "latitude": "6.703624138",
+                "longitude": "-1.615832474",
+                "source": "Barry Bilderback Personal Ethnomusicology Record",
+                "identifier": "uighana-018",
+                "type": "Image;StillImage",
+                "format": "image/jpg",
+                
+                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
+                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
+                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-018_th.jpg",
+                "object_download": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-018.jpg",
+                "reference_url": "https://thecdil.github.io//ghana-music-initiative/items/uighana-018.html"
             }
         }, 
         {
