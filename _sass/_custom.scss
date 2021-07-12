@@ -2,3 +2,22 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+
+/* glossary */
+
+dt {
+    font-size:20px;
+}
+.glossary-def {
+    font-size:26px;
+}
+#glossary-list {
+    a {
+        text-decoration: underline;
+    }
+}
+.narrow {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 750px;
+}

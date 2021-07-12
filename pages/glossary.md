@@ -4,14 +4,6 @@ layout: about
 permalink: /glossary/
 ---
 
-<style>
-    .narrow {
-        margin-left: auto;
-        margin-right: auto;
-        max-width: 650px;
-    }
-</style>
-
 # Glossary
 
 {% capture letters %}{% for item in site.data.ghana_glossary %}{{ item.term | slice: 0 | capitalize }};{% endfor %}{% endcapture %}
