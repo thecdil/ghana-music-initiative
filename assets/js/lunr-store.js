@@ -55,7 +55,7 @@ var store = [{
 "id": "uighana-011"
 
 },{  
-"title": "Tamale Circular Dance","date": "2018","creator": "Barry Bilderback","description": "Dancers in Tamale Gather in a circle for a community performance.","subject": "Dagbamba; northern;","location": "Tamale", 
+"title": "Tamale Circular Dance","date": "2018","creator": "Barry Bilderback","description": "Dancers in Tamale gather in a circle for a community performance.","subject": "Dagbamba; northern;","location": "Tamale", 
 "id": "uighana-012"
 
 },{  
@@ -107,7 +107,7 @@ var store = [{
 "id": "uighana-024"
 
 },{  
-"title": "Nunya Music Percussion Ensemble","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy under the direction of Prosper Gbolonyo. Seen in the photograph (left to right): kidi, sogo, kagan, atsimeʋu. A djembe is also in front of the sogo.","subject": "brass; Dzodze; kidi; sogol; kagan; atsimeʋu; Eʋe","location": "Dzodze", 
+"title": "Nunya Music Percussion Ensemble","date": "2018","creator": "Barry Bilderback","description": "The Nunya Music Academy under the direction of Prosper Gbolonyo. Seen in the photograph (left to right): kidi, sogo, kagan, atsimeʋu. A djembe is also in front of the sogo.","subject": "brass; Dzodze; kidi; sogo; kagan; atsimeʋu; Eʋe","location": "Dzodze", 
 "id": "uighana-025"
 
 },{  
@@ -115,7 +115,7 @@ var store = [{
 "id": "uighana-026"
 
 },{  
-"title": "Ga Ensemble at Homowo","date": "2018","creator": "Barry Bilderback","description": "Ga musicians seen performing on custom drums, resembling Eʋe atopani at Homowo.","subject": "Homowo; Ga; harvest; ensemble","location": "Prampram", 
+"title": "Ga Ensemble at Homowo","date": "2018","creator": "Barry Bilderback","description": "Ga musicians seen performing on custom drums, resembling Eʋe atopani or Akan atumpan at Homowo.","subject": "Homowo; Ga; harvest; ensemble","location": "Prampram", 
 "id": "uighana-027"
 
 }];
