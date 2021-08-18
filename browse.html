@@ -41,7 +41,7 @@
 
 
 <!-- Analytics --> 
-<!-- Last build date: 2021-08-02 -->
+<!-- Last build date: 2021-08-18 -->
   </head>
   <body>
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -53,9 +53,10 @@
             <p>An active database of music and dance from across Ghana.</p>
         </div>
         <div class="col-md-3 d-none d-lg-block text-right">
+            <!--
             <a class="btn btn-outline-light" href="https://www.facebook.com/agoobiniiculturalarts/" target="_blank" rel="noopener">
                 <img class="img-fluid" src="https://www.lib.uidaho.edu/digital/objects/ghana-music/abn-logo-large.png" title="Agoo-Bi Nii Cultural Arts Center" alt="Agoo-Bi Nii Cultural Arts Center" >
-            </a>
+            </a>-->
         </div>
     </div>
 </div>
@@ -286,9 +287,7 @@ var items = [
     { "date":"2005","creator":"Felix Akusa Adjetey Sowah","subject":"dance; Ga; Gome; shekeshe; ƞono; gome; atswereshie; kpanlogo;","location":"Accra","identifier":"uighana-006i","img": "https://img.youtube.com/vi/mHZNUod80KE/mqdefault.jpg","format": "video/mp4","title":"Gome", "id":"uighana-006i" },
     { "date":"2007-04-02","creator":"Allan Fraser – Strobilus","subject":"dance; Kpanlogo; Ga; atswereshie","location":"Accra","identifier":"uighana-007","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-007_th.jpg","format": "image/jpg","title":"Kpanlogo Drum", "id":"uighana-007" },
     { "date":"1966","creator":"Accra : Survey Division","subject":"Ga; Akan; Dagbamba; Eʋe","location":"Accra","identifier":"uighana-008","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-008_th.jpg","format": "image/jpg","title":"Ehtnicities of Ghana", "id":"uighana-008" },
-    { "date":"2018","creator":"Barry Bilderback","subject":"Eʋe; Volta; ceremonial dance;","location":"Kpeve","identifier":"uighana-009","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-009_th.jpg","format": "image/jpg","title":"Kpeve ceremonial Dancer", "id":"uighana-009" },
-    { "date":"2018","creator":"Barry Bilderback","subject":"Eʋe; Volta; ceremonial dance;","location":"Kpeve","identifier":"uighana-010","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-010_th.jpg","format": "image/jpg","title":"Blessing of the Young Prophets", "id":"uighana-010" },
-    { "date":"2018","creator":"Barry Bilderback","subject":"Eʋe; Volta; ceremonial dance;","location":"Kpando","identifier":"uighana-011","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-011_th.jpg","format": "image/jpg","title":"Kpando ceremonial Dancer", "id":"uighana-011" },
+    { "date":"2018","creator":"Barry Bilderback","subject":"Eʋe; Volta; ceremonial dance;","location":"Kpando","identifier":"uighana-011","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-011_th.jpg","format": "image/jpg","title":"Kpando Dancer", "id":"uighana-011" },
     { "date":"2018","creator":"Barry Bilderback","subject":"Dagbamba; northern;","location":"Tamale","identifier":"uighana-012","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-012_th.jpg","format": "image/jpg","title":"Tamale Circular Dance", "id":"uighana-012" },
     { "date":"2018","creator":"Barry Bilderback","subject":"Accra; Ga; Eʋe; Nungua","location":"Nungua, Accra","identifier":"uighana-013","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-013_th.jpg","format": "image/jpg","title":"Kusun Cultral Center: Ga Perform Eʋe", "id":"uighana-013" },
     { "date":"2018","creator":"Barry Bilderback","subject":"Accra; Ga; Eʋe; Nungua","location":"Nungua, Accra","identifier":"uighana-014","img": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-014_th.jpg","format": "image/jpg","title":"Kusun Cultral Center: Ga Perform Eʋe", "id":"uighana-014" },
@@ -452,7 +451,7 @@ function filterItems(arr,q) {
         }
     }
     // add number 
-    $("#numberOf").html(filteredItems.length + " of 30 items");
+    $("#numberOf").html(filteredItems.length + " of 28 items");
 
     // add stuff, make cards first in giant var, then add all at once to speed things up
     var cards = "";

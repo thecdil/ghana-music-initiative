@@ -169,36 +169,8 @@
         }
       },{
         "media": {
-          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-009_sm.jpg",
-          "caption": "Kpeve ceremonial Dancer",
-          "link": "/ghana-music-initiative/items/uighana-009.html"
-        },
-        "start_date": { 
-          
-          "year": "2018"
-        },
-        "text": {
-          "headline": "Kpeve ceremonial Dancer",
-          "text": "A female dancer in the Kpeve village is seen displaying the physical embodiment of the transpossetion practice evidenced by chalk on the face, the staw skirt, and the ceremonial knife she wields. The knife is used to thrust into oneself in the straw skirt, often leaving scratches and abrasions."
-        }
-      },{
-        "media": {
-          "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-010_sm.jpg",
-          "caption": "Blessing of the Young Prophets",
-          "link": "/ghana-music-initiative/items/uighana-010.html"
-        },
-        "start_date": { 
-          
-          "year": "2018"
-        },
-        "text": {
-          "headline": "Blessing of the Young Prophets",
-          "text": "The young prophets of the Kpeve village are blessed by the outer shrine in front of a physical depiction of Mawu."
-        }
-      },{
-        "media": {
           "url": "https://www.lib.uidaho.edu/digital/objects/ghana-music/small/uighana-011_sm.jpg",
-          "caption": "Kpando ceremonial Dancer",
+          "caption": "Kpando Dancer",
           "link": "/ghana-music-initiative/items/uighana-011.html"
         },
         "start_date": { 
@@ -206,7 +178,7 @@
           "year": "2018"
         },
         "text": {
-          "headline": "Kpando ceremonial Dancer",
+          "headline": "Kpando Dancer",
           "text": "A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt."
         }
       },{
@@ -361,7 +333,7 @@
         },
         "text": {
           "headline": "Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village",
-          "text": "A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe Dogah is seen playing the atopani."
+          "text": "A drum ensemble in the Volta region performs for a religious dance ceremony. Hunor Gatukpe Dogah is seen playing the atopani."
         }
       },{
         "media": {
@@ -431,7 +403,7 @@
         },
         "text": {
           "headline": "Ga Ensemble at Homowo",
-          "text": "Ga musicians seen performing on custom drums, resembling Eʋe atopani or Akan atumpan at Homowo."
+          "text": "Ga musicians seen performing on custom drums, resembling Akan atumpan at Homowo."
         }
       }
     ]

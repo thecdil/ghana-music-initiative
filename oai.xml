@@ -9,7 +9,7 @@
         <oai:baseURL>http://gateway.institution.org/oai/thecdil.github.io//ghana-music-initiative/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2021-08-02</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2021-08-18</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
@@ -25,7 +25,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006a</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -49,7 +49,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006b</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -73,7 +73,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006c</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -97,7 +97,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006d</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -121,7 +121,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006e</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -145,7 +145,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006f</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -169,7 +169,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006g</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -193,7 +193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006h</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -217,7 +217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006i</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -241,7 +241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-007</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -265,7 +265,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-008</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -288,56 +288,8 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-009</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Kpeve ceremonial Dancer</dc:title>
-                    <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>A female dancer in the Kpeve village is seen displaying the physical embodiment of the transpossetion practice evidenced by chalk on the face, the staw skirt, and the ceremonial knife she wields. The knife is used to thrust into oneself in the straw skirt, often leaving scratches and abrasions.</dc:description>
-                    <dc:subject>Eʋe; Volta; ceremonial dance;</dc:subject>
-                    <dc:type>Image;StillImage</dc:type>
-                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
-                    <dc:identifier>uighana-009</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-009.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-010</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Blessing of the Young Prophets</dc:title>
-                    <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>The young prophets of the Kpeve village are blessed by the outer shrine in front of a physical depiction of Mawu.</dc:description>
-                    <dc:subject>Eʋe; Volta; ceremonial dance;</dc:subject>
-                    <dc:type>Image;StillImage</dc:type>
-                    <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
-                    <dc:identifier>uighana-010</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-010.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-011</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -346,7 +298,7 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Kpando ceremonial Dancer</dc:title>
+                    <dc:title>Kpando Dancer</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
                     <dc:date>2018</dc:date><dc:description>A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt.</dc:description>
                     <dc:subject>Eʋe; Volta; ceremonial dance;</dc:subject>
@@ -361,7 +313,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-012</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -385,7 +337,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-013</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -409,7 +361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-014</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -433,7 +385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-015</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -457,7 +409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-016</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -481,7 +433,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-017</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -505,7 +457,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-018</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -529,7 +481,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-019</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -553,7 +505,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-020</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -577,7 +529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-021</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -601,7 +553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-022</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -612,7 +564,7 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe Dogah is seen playing the atopani.</dc:description>
+                    <dc:date>2018</dc:date><dc:description>A drum ensemble in the Volta region performs for a religious dance ceremony. Hunor Gatukpe Dogah is seen playing the atopani.</dc:description>
                     <dc:subject>Kpeve; Eʋe; ensemble; ceremony; atopani</dc:subject>
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
@@ -625,7 +577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-023</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -649,7 +601,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-024</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -673,7 +625,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-025</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -697,7 +649,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-026</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -721,7 +673,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-027</oai:identifier> 
-                <oai:datestamp>2021-08-02</oai:datestamp>
+                <oai:datestamp>2021-08-18</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -732,7 +684,7 @@
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
                     <dc:title>Ga Ensemble at Homowo</dc:title>
                     <dc:creator>Barry Bilderback</dc:creator>
-                    <dc:date>2018</dc:date><dc:description>Ga musicians seen performing on custom drums, resembling Eʋe atopani or Akan atumpan at Homowo.</dc:description>
+                    <dc:date>2018</dc:date><dc:description>Ga musicians seen performing on custom drums, resembling Akan atumpan at Homowo.</dc:description>
                     <dc:subject>Homowo; Ga; harvest; ensemble</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>

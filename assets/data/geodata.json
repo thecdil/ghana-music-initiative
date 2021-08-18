@@ -303,64 +303,10 @@
             "type":"Feature",
             "geometry":{
                 "type":"Point",
-                "coordinates":[0.3325510045,6.685259058]
-            },            
-            "properties":{
-                "title": "Kpeve ceremonial Dancer",
-                "creator": "Barry Bilderback",
-                "date": "2018",
-                "description": "A female dancer in the Kpeve village is seen displaying the physical embodiment of the transpossetion practice evidenced by chalk on the face, the staw skirt, and the ceremonial knife she wields. The knife is used to thrust into oneself in the straw skirt, often leaving scratches and abrasions.",
-                "subject": "Eʋe; Volta; ceremonial dance;",
-                "location": "Kpeve",
-                "latitude": "6.685259058",
-                "longitude": "0.3325510045",
-                "source": "Barry Bilderback Personal Ethnomusicology Record",
-                "identifier": "uighana-009",
-                "type": "Image;StillImage",
-                "format": "image/jpg",
-                
-                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
-                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
-                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-009_th.jpg",
-                "object_download": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-009.jpg",
-                "reference_url": "https://thecdil.github.io//ghana-music-initiative/items/uighana-009.html"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
-                "coordinates":[0.3325510045,6.685259058]
-            },            
-            "properties":{
-                "title": "Blessing of the Young Prophets",
-                "creator": "Barry Bilderback",
-                "date": "2018",
-                "description": "The young prophets of the Kpeve village are blessed by the outer shrine in front of a physical depiction of Mawu.",
-                "subject": "Eʋe; Volta; ceremonial dance;",
-                "location": "Kpeve",
-                "latitude": "6.685259058",
-                "longitude": "0.3325510045",
-                "source": "Barry Bilderback Personal Ethnomusicology Record",
-                "identifier": "uighana-010",
-                "type": "Image;StillImage",
-                "format": "image/jpg",
-                
-                "rights": "Educational use includes non-commercial use of text and images in materials for teaching and research purposes. Digital reproduction rights granted by the University of Idaho Library. For other uses beyond free use, please contact University of Idaho Library Special Collections and Archives Department.",
-                "rightsstatement": "http://rightsstatements.org/vocab/NoC-US/1.0/",
-                "object_thumb": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-010_th.jpg",
-                "object_download": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-010.jpg",
-                "reference_url": "https://thecdil.github.io//ghana-music-initiative/items/uighana-010.html"
-            }
-        }, 
-        {
-            "type":"Feature",
-            "geometry":{
-                "type":"Point",
                 "coordinates":[0.2944420481,6.994797409]
             },            
             "properties":{
-                "title": "Kpando ceremonial Dancer",
+                "title": "Kpando Dancer",
                 "creator": "Barry Bilderback",
                 "date": "2018",
                 "description": "A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt.",
@@ -660,7 +606,7 @@
                 "title": "Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village",
                 "creator": "Barry Bilderback",
                 "date": "2018",
-                "description": "A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe Dogah is seen playing the atopani.",
+                "description": "A drum ensemble in the Volta region performs for a religious dance ceremony. Hunor Gatukpe Dogah is seen playing the atopani.",
                 "subject": "Kpeve; Eʋe; ensemble; ceremony; atopani",
                 "location": "Kpeve",
                 "latitude": "6.685259058",
@@ -795,7 +741,7 @@
                 "title": "Ga Ensemble at Homowo",
                 "creator": "Barry Bilderback",
                 "date": "2018",
-                "description": "Ga musicians seen performing on custom drums, resembling Eʋe atopani or Akan atumpan at Homowo.",
+                "description": "Ga musicians seen performing on custom drums, resembling Akan atumpan at Homowo.",
                 "subject": "Homowo; Ga; harvest; ensemble",
                 "location": "Prampram",
                 "latitude": "5.724073591",

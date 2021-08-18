@@ -3,8 +3,8 @@
         {
             "field": "subject",
             "terms": { 
-                "eʋe": 19,
                 "ga": 17,
+                "eʋe": 17,
                 "dance": 11,
                 "ƞono": 9,
                 "atswereshie": 9,
@@ -17,8 +17,6 @@
                 "nungua": 4,
                 "ensemble": 4,
                 "kidi": 3,
-                "volta": 3,
-                "ceremonial dance": 3,
                 "homowo": 3,
                 "harvest": 3,
                 "tamale": 3,
@@ -41,6 +39,8 @@
                 "shekshe": 1,
                 "setse": 1,
                 "mba": 1,
+                "volta": 1,
+                "ceremonial dance": 1,
                 "northern": 1,
                 "instruments": 1,
                 "ashanti": 1,
@@ -55,7 +55,7 @@
         {
             "field": "creator",
             "terms": { 
-                "barry bilderback": 19,
+                "barry bilderback": 17,
                 "felix akusa adjetey sowah": 9,
                 "allan fraser – strobilus": 1,
                 "accra : survey division": 1
@@ -64,7 +64,7 @@
         {
             "field": "format",
             "terms": { 
-                "image/jpg": 18,
+                "image/jpg": 16,
                 "video/mp4": 12
             }
         }

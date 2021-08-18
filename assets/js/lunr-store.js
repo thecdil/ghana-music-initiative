@@ -43,15 +43,7 @@ var store = [{
 "id": "uighana-008"
 
 },{  
-"title": "Kpeve ceremonial Dancer","date": "2018","creator": "Barry Bilderback","description": "A female dancer in the Kpeve village is seen displaying the physical embodiment of the transpossetion practice evidenced by chalk on the face, the staw skirt, and the ceremonial knife she wields. The knife is used to thrust into oneself in the straw skirt, often leaving scratches and abrasions.","subject": "Eʋe; Volta; ceremonial dance;","location": "Kpeve", 
-"id": "uighana-009"
-
-},{  
-"title": "Blessing of the Young Prophets","date": "2018","creator": "Barry Bilderback","description": "The young prophets of the Kpeve village are blessed by the outer shrine in front of a physical depiction of Mawu.","subject": "Eʋe; Volta; ceremonial dance;","location": "Kpeve", 
-"id": "uighana-010"
-
-},{  
-"title": "Kpando ceremonial Dancer","date": "2018","creator": "Barry Bilderback","description": "A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt.","subject": "Eʋe; Volta; ceremonial dance;","location": "Kpando", 
+"title": "Kpando Dancer","date": "2018","creator": "Barry Bilderback","description": "A dancer in the Kpando village prepares for a ceremonial dance evidenced by the straw skirt.","subject": "Eʋe; Volta; ceremonial dance;","location": "Kpando", 
 "id": "uighana-011"
 
 },{  
@@ -95,7 +87,7 @@ var store = [{
 "id": "uighana-021"
 
 },{  
-"title": "Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village","date": "2018","creator": "Barry Bilderback","description": "A drum ensemble in the Volta region performs for a ceremonial dance featuring the young prophets. Hunor Gatukpe Dogah is seen playing the atopani.","subject": "Kpeve; Eʋe; ensemble; ceremony; atopani","location": "Kpeve", 
+"title": "Hunor Gatukpe Dogah and Eʋe Drum Ensemble in the Kpeve Village","date": "2018","creator": "Barry Bilderback","description": "A drum ensemble in the Volta region performs for a religious dance ceremony. Hunor Gatukpe Dogah is seen playing the atopani.","subject": "Kpeve; Eʋe; ensemble; ceremony; atopani","location": "Kpeve", 
 "id": "uighana-022"
 
 },{  
@@ -115,7 +107,7 @@ var store = [{
 "id": "uighana-026"
 
 },{  
-"title": "Ga Ensemble at Homowo","date": "2018","creator": "Barry Bilderback","description": "Ga musicians seen performing on custom drums, resembling Eʋe atopani or Akan atumpan at Homowo.","subject": "Homowo; Ga; harvest; ensemble","location": "Prampram", 
+"title": "Ga Ensemble at Homowo","date": "2018","creator": "Barry Bilderback","description": "Ga musicians seen performing on custom drums, resembling Akan atumpan at Homowo.","subject": "Homowo; Ga; harvest; ensemble","location": "Prampram", 
 "id": "uighana-027"
 
 }];
