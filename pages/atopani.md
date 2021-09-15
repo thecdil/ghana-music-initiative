@@ -1,9 +1,5 @@
 ---
 title: The Atopani
-layout: about
+layout: atopani
 permalink: /atopani.html
 ---
-
-<div id="atomap"></div>
-
-{% include js/atopani-js.html %}
