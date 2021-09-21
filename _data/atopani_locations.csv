@@ -1,7 +1,7 @@
-location,latitude,longitude,id
-Ketu,7.361572325,2.603716698,ketu
-Ƞɔtsie,6.951028469,1.171996568,notsie
-Peki,6.501325255,0.199765287,peki
-Ho,6.60722879,0.4691831904,ho
-Asamangkese,5.86249365,-0.6666469293,asamangkese
-Accra,5.592912993,-0.1824781612,accra
+location,latitude,longitude,id,order,content
+Ketu,7.361572325,2.603716698,ketu,01,started here
+Ƞɔtsie,6.951028469,1.171996568,notsie,02,then moved here
+Peki,6.501325255,0.199765287,peki,03,then moved here
+Ho,6.60722879,0.4691831904,ho,04,then moved here
+Asamangkese,5.86249365,-0.6666469293,asamangkese,05,then moved here
+Accra,5.592912993,-0.1824781612,accra,06,then moved here

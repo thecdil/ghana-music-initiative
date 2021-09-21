@@ -10,7 +10,9 @@
     { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[{{ item.longitude | strip }},{{ item.latitude | strip }}] }, "properties":
     { 
         "title": {{ item.location | escape | jsonify }}, 
-        "id": {{ item.id | jsonify }} 
+        "id": {{ item.id | jsonify }}, 
+        "order": {{ item.order | jsonify }}, 
+        "content": {{ item.content | jsonify }}
     } }{% unless forloop.last %}, {% endunless %}{% endfor %}
     ]};
 
@@ -25,8 +27,11 @@
     // object popup function
     function objectPopups(feature, layer) {
         // set up popup content
-        var popupTemplate = '<h4>' +
-            feature.properties.title + '</h4>';
+        var popupTemplate = '<h4>' + feature.properties.title + '</h4><br><p>' + feature.properties.content + '</p>';
+        var firstPopup;
+        if (feature.properties.order.includes('01')) {
+            firstPopup= feature
+        } 
         layer.bindPopup(popupTemplate);
     }
 
