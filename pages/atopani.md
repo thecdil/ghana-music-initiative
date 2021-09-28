@@ -4,13 +4,13 @@ layout: atopani
 permalink: /atopani.html
 ---
 
-<blockquote class="blockquote">
-    <p class="mb-0">The path has crossed the river,<br>
-    The river has crossed the path,<br>
-    Which is the elder?<br>
-    <!--<footer class="blockquote-footer"><cite title="Source Title"></cite></footer>-->
-</blockquote>
+The path has crossed the river,
 
+The river has crossed the path,
+
+Which is the elder?
+
+{:.pt-4}
 This Asante proverb resonates today in the voices of the people and on the skins of the atumpan.[^1] 
 The transfer of discernable language onto a musical instrument or sound producing object for the purpose of encoding a message can be defined as “speech surrogacy.” 
 Speech surrogacy can serve a variety of purposes, including prayers, proverbial knowledge, and public service announcements such as alerts or warnings.[^2] 
@@ -22,5 +22,5 @@ West African languages such as Twi (spoken in Asante), Dagbani (spoken in the No
 Twi has two linguistic pitch classes while Eve has three. 
 The purpose of this essay is to introduce the limited written scholarship currently available on the adoption, history, and practices of the Akan atumpan and the Eʋe atopani.
 
-[^1] *Atumpan, The Talking Drums of Ghana*
-[^2] Locke, David, and Godwin Agbeli, 25.
+[^1]: *Atumpan, The Talking Drums of Ghana*
+[^2]: Locke, David, and Godwin Agbeli, 25.
