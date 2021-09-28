@@ -36,12 +36,12 @@ However, it is my hope to provide an objective analysis of how two states (the A
     <div class="col-md-12">
         <div class="card border-dark" id="atomap"></div>
     </div>
-    <div class="col-md-6 px-5">
-        <h2>Volta Region</h2>
+    <div class="col-md-6 px-5 mt-3">
+        <h2 id="voltamap">Volta Region</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
     </div>
-    <div class="col-md-6 px-5">
-        <h2>Ashanti Region</h2>
+    <div class="col-md-6 px-5 mt-3">
+        <h2 id="ashantimap">Ashanti Region</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
     </div>
 </div>
