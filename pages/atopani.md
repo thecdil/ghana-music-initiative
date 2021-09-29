@@ -1,8 +1,10 @@
 ---
 title: The Atopani
-layout: atopani
-permalink: /atopani.html
+layout: home-infographic
+permalink: /
 ---
+
+[Introduction to research below]
 
 {:.pt-4}
 The path has crossed the river,
