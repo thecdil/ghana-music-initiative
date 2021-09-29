@@ -19,6 +19,7 @@
 <meta http-equiv="Content-Language" content="en-us" >
 
 <link rel="stylesheet" href="/ghana-music-initiative/assets/lib/bootstrap.min.css" type="text/css">
+
 <link rel="stylesheet" href="/ghana-music-initiative/assets/css/custom.css" type="text/css">
 
 
@@ -41,7 +42,7 @@
 
 
 <!-- Analytics --> 
-<!-- Last build date: 2021-08-18 -->
+<!-- Last build date: 2021-09-29 -->
   </head>
   <body>
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -108,6 +109,8 @@
                         
                         <a class="dropdown-item " href="/ghana-music-initiative/about.html">About the Project</a>
                         
+                        <a class="dropdown-item " href="/ghana-music-initiative/atopani.html">About the Atopani</a>
+                        
                         <a class="dropdown-item " href="/ghana-music-initiative/bibliography.html">Bibliography</a>
                         
                     </div>
@@ -154,6 +157,7 @@ Word size is determined by frequency and all words link to a corresponding colle
 
 
 <div id="cloud" class="text-center my-4 bg-light border rounded p-2"></div><script>
+(function(){    
     /* subject terms + count */
     var terms = [
         ["accra", 4], ["accra : survey division", 1], ["adzogbo", 2], ["akan", 2], ["allan fraser – strobilus", 1], ["ashanti", 1], ["atopani", 1], ["atsimeʋu", 1], ["atswereshie", 9], ["barry bilderback", 17], ["brass", 3], ["ceremonial dance", 1], ["ceremony", 1], ["dagbamba", 5], ["dance", 11], ["dzodze", 3], ["ensemble", 4], ["eʋe", 17], ["felix akusa adjetey sowah", 9], ["femefeme", 1], ["ga", 17], ["gahu", 1], ["gome", 2], ["harvest", 3], ["homowo", 3], ["horn", 2], ["houses", 1], ["instruments", 1], ["kagan", 6], ["kidi", 3], ["kpanlogo", 8], ["kpatsa", 1], ["kpeve", 1], ["mba", 1], ["northern", 1], ["nungua", 4], ["recreation", 1], ["sanka", 1], ["senegal", 1], ["setse", 1], ["shekeshe", 7], ["shekshe", 1], ["sobima", 1], ["sogo", 4], ["tamale", 3], ["trombone", 2], ["trumpet", 2], ["tuba", 2], ["tubano", 2], ["volta", 1], ["ƞono", 9]
@@ -164,17 +168,7 @@ Word size is determined by frequency and all words link to a corresponding colle
     var counts = terms.map(function(obj){ return obj[1]; });
     var countMax = counts.reduce(function(a, b) { return Math.max(a, b); });
     var cloud = document.getElementById("cloud");
-    /* Fisher-Yates shuffle https://bost.ocks.org/mike/shuffle/ */
-    /* function shuffle(array) {
-        var m = array.length, t, i;
-        while (m) {
-        i = Math.floor(Math.random() * m--);
-        t = array[m];
-        array[m] = array[i];
-        array[i] = t;
-        }
-        return array;
-    } */
+    
     function mapSize(x) { return Math.round(x * 9 / countMax + 1); }
     /* create cloud */
     function makeGrid(array) {
@@ -189,6 +183,21 @@ Word size is determined by frequency and all words link to a corresponding colle
     }
     makeGrid(terms);
 
+    function mapSize(x) { return Math.round(x * 9 / countMax + 1); }
+    /* create cloud */
+    function makeGrid(array) {
+        var i, size;
+        var items = "";
+        
+        for (i = 0; i < array.length; i++) {
+            size = mapSize(array[i][1]);
+            items += '<a class="btn btn-outline-info m-2 tagcloud' + size + '" href="/ghana-music-initiative/browse.html#' + encodeURIComponent(array[i][0]) + '" >' + array[i][0] + '</a>';
+        }
+        cloud.innerHTML = items;
+    }
+    makeGrid(terms);
+
+})();
 </script>
 
 </div>
