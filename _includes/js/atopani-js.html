@@ -18,7 +18,7 @@
 
     console.log(geodata)
 
-    var mymap = L.map('atomap').setView([6.577270533858309, 1.1903266763373885], 8); 
+    var mymap = L.map('atomap').setView([7.164211734561644, 0.21710543462272916], 7); 
 
     L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
       attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
@@ -36,7 +36,6 @@
         return marker;
     }
 
-    /*
     L.geoJson(geodata, {
         onEachFeature: objectPopups,
         pointToLayer: objectMarkers
@@ -44,7 +43,7 @@
 
     var regions = [{
         "type": "Feature",
-        "properties": {"place": "volta"},
+        "properties": {"location": "volta", "popupContent": "Volta Region"},
         "geometry": {
             "type": "Polygon",
             "coordinates": [[
@@ -135,15 +134,16 @@
                 [0.3856203540486347, 8.749977442139951],
                 [0.288146900214481, 8.763138868160125]
             ]]
+        }
         }, {
         "type": "Feature",
-        "properties": {"place": "ashanti"},
+        "properties": {"location": "ashanti", "popupContent": "Ashanti Region"},
         "geometry": {
             "type": "Polygon",
             "coordinates": [[
                 [-1.528731949829155, 7.495769750209234],
                 [-1.581659438930337, 7.383455491119896],
-                [-1.64826017753906 8,7.3571275786688],
+                [-1.648260177539068, 7.3571275786688],
                 [-1.75498419025921, 7.337463651467631],
                 [-1.842505840971587, 7.469898562882727],
                 [-2.110421363852983, 7.470358306567673],
@@ -216,34 +216,22 @@
 
     L.geoJSON(regions, {
         style: function(feature) {
-            switch (feature.properties.place) {
+            switch (feature.properties.location) {
                 case 'volta': return {color: "#ff0000"};
-                case 'ashanti':   return {color: "#0000ff"};
+                case 'ashanti': return {color: "#0000ff"};
             }
         }
     }).addTo(mymap);
-    */
 
-    var myLines = [{
-        "type": "LineString",
-        "coordinates": [[-1.961096377302306, 8.321250422139814], [-1.23446283299517,8.203666826001621], [-0.9702713726501411,8.650014632147338]]
-    }, {
-        "type": "LineString",
-        "coordinates": [[-0.9702713726501411,8.650014632147338], [-1.919499494518159,9.103398853102876], [-1.961096377302306,8.321250422139814]]
-    }];
+    $('#ashantimap').on('click', function(){
+        mymap.flyTo([6.835572182268001, -1.4855796477743435], 9, {
+        animate: true,
+        easeLinearity: .5,
+        duration: 3});
+    });
 
-    var myStyle = {
-        "color": "#ff7800",
-        "weight": 5,
-        "opacity": 0.65
-    };
-
-    L.geoJSON(myLines, {
-        style: myStyle
-    }).addTo(mymap);
-
-    $('#notsie').on('click', function(){
-        mymap.flyTo([6.951028469, 1.171996568], 14, {
+    $('#voltamap').on('click', function(){
+        mymap.flyTo([7.130158250078799, 0.4642079789444619], 8, {
         animate: true,
         easeLinearity: .5,
         duration: 3});
