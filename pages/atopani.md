@@ -4,7 +4,7 @@ layout: home-infographic
 permalink: /
 ---
 
-[Introduction to research below]
+Understanding speech surrogate drums throughout West Africa is a pivotal point of research to understand not only the linguistic, musicological, and historical nuance of the tradition but to learn from the technological encoding capabilities of the practice. By narrowing our focus to the organological roots of the atopani across Asante and Peki borders, we can gain insight to how one piece of the practice was shared and adopted by different regions.  
 
 {:.pt-4}
 The path has crossed the river,
@@ -32,23 +32,27 @@ The purpose of this essay is to introduce the limited written scholarship curren
 The modern day Akan people reside primarily within the Asante region of Ghana, while the Eʋe live in the Volta region of Ghana, Togo, and parts of Benin. 
 Asante is noted for being one of the most influential and historically imperial areas of what is now modern Ghana. To historically understand how the Akan came in contact with the Eʋe, we must first look at where these groups originally came from. Decoding this information is difficult and also controversial. 
 Oral histories and written reports by neighboring states, European colonists, and letters from occupying European forces and political courts of indignous African states often conflict with each other. 
-However, it is my hope to provide an objective analysis of how two states (the Akwamu Empire and the Peki Confederacy) resulted in the adoption of the Akan atumpan to become the Eʋe atopani.
+However, it is my hope to provide an objective analysis of how two states (the Akwamu Empire and the Krepi (Peki) Confederacy) resulted in the adoption of the Akan atumpan to become the Eʋe atopani.
 
 <div class="row text-center py-4">
     <div class="col-md-12">
         <div class="card border-dark" id="atomap"></div>
     </div>
     <div class="col-md-6 px-5 pt-4">
-        <h2><a id="ashantimap" tabindex="0">Ashanti Region</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
+        <h2><a id="Asantemap" tabindex="0">Asante Region</a></h2>
+        <p></p>
     </div>
     <div class="col-md-6 px-5 pt-4">
         <h2><a id="voltamap" tabindex="0">Volta Region</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
+        <p></p>
+    </div>
+    <!--center text, yelow outline of the akwamu empire at its height-->
+    <div class="col-md-6 px-5 pt-4">
+        <h2 style="text-align:center/center"><a id="voltamap" tabindex="0">Akwamu Empire</a></h2>
+        <p></p>
     </div>
 </div>
 
-[Overlay the geographic information about regions of Ghana-- potentially highlighted area of Volta, Ashanti, and the Akwamu Empire and Peki (Krepi) Confederacy]
 
 The Peki Eʋe migrated from Ketu, in present day Benin, to Ƞɔtsie between the Mono and Haho rivers as a product of Yoruba expansion, and then further on to Krepa (present day Peki) sometime before 1600.[^3] 
 King Togbe Agokoli was a tyrannical ruler to the Eʋe while established in Ƞɔtsie. 
@@ -65,7 +69,7 @@ In 1833, under the leadership of Kwadzo Dei I, the Peki led an attack on the Akw
 Following victory, a confederation of states surrounding Peki pledged allegiance to Kwadzo Dei. 
 At this point in Eʋeland, the Eʋe have discernable practices that are verified to be Akan in origin. 
 Such as: worship of the ancestors and chief stools, speech surrogate drums, and drum languages (such as solfege). 
-Over the period of approximately a hundred years (1734-1833), it's widely hypothesized that Eʋe villages learned from and appropriated these specific practices introduced by Akan occupying forces. 
+Over the period of approximately a hundred years (1734-1833), I hypothesize that Eʋe villages learned from and appropriated these specific practices introduced by Akwamu occupying forces. 
 Today the atopani is practiced and learned through the use of Akan-based syllables, which has confirmed, according to many scholars, its Asante origin.[^5]
 
 [Insert photograph of modern day Peki alongside the overlapping maps of Akwamu and Peki Confederacy]
