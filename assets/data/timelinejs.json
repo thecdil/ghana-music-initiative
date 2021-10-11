@@ -405,6 +405,22 @@
           "headline": "Ga Ensemble at Homowo",
           "text": "Ga musicians seen performing on custom drums, resembling Akan atumpan at Homowo."
         }
+      },{
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/La_paire_de_tambours_d%27atumpan_%28vu_avec_les_symboles%29.jpg",
+          "caption": "A pair of Atumpan drums",
+          "link": "/ghana-music-initiative/items/uighana-028.html"
+        },
+        "start_date": { 
+          
+          "month": "01",
+          "day": "23",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "A pair of Atumpan drums",
+          "text": "Photograph of Atumpan drums"
+        }
       }
     ]
 }

@@ -58,13 +58,14 @@
                 "barry bilderback": 17,
                 "felix akusa adjetey sowah": 9,
                 "allan fraser – strobilus": 1,
-                "accra : survey division": 1
+                "accra : survey division": 1,
+                "figlio di dio": 1
             }
         },
         {
             "field": "format",
             "terms": { 
-                "image/jpg": 16,
+                "image/jpg": 17,
                 "video/mp4": 12
             }
         }

@@ -110,4 +110,8 @@ var store = [{
 "title": "Ga Ensemble at Homowo","date": "2018","creator": "Barry Bilderback","description": "Ga musicians seen performing on custom drums, resembling Akan atumpan at Homowo.","subject": "Homowo; Ga; harvest; ensemble","location": "Prampram", 
 "id": "uighana-027"
 
+},{  
+"title": "A pair of Atumpan drums","date": "2017-01-23","creator": "Figlio di dio","description": "Photograph of Atumpan drums", 
+"id": "uighana-028"
+
 }];

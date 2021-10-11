@@ -557,6 +557,26 @@
         "object_thumb": "https://www.lib.uidaho.edu/digital/objects/ghana-music/thumbs/uighana-027_th.jpg",
         "object_download": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-027.jpg",
         "reference_url": "https://thecdil.github.io//ghana-music-initiative/items/uighana-027.html"
+    },
+    { 
+        "title": "A pair of Atumpan drums",
+        "creator": "Figlio di dio",
+        "date": "2017-01-23",
+        "description": "Photograph of Atumpan drums",
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpg",
+        
+        "rights": "Figlio di dio, CC BY-SA 4.0, via Wikimedia Commons",
+        "rightsstatement": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "object_thumb": "https://upload.wikimedia.org/wikipedia/commons/1/1c/La_paire_de_tambours_d%27atumpan_%28vu_avec_les_symboles%29.jpg",
+        "object_download": "https://upload.wikimedia.org/wikipedia/commons/1/1c/La_paire_de_tambours_d%27atumpan_%28vu_avec_les_symboles%29.jpg",
+        "reference_url": "https://thecdil.github.io//ghana-music-initiative/items/uighana-028.html"
     }
     
 ] }

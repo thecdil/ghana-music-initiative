@@ -9,7 +9,7 @@
         <oai:baseURL>http://gateway.institution.org/oai/thecdil.github.io//ghana-music-initiative/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2021-09-29</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2021-10-11</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
@@ -25,7 +25,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006a</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -49,7 +49,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006b</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -73,7 +73,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006c</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -97,7 +97,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006d</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -121,7 +121,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006e</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -145,7 +145,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006f</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -169,7 +169,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006g</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -193,7 +193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006h</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -217,7 +217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006i</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -241,7 +241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-007</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -265,7 +265,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-008</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -289,7 +289,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-011</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -313,7 +313,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-012</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -337,7 +337,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-013</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -361,7 +361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-014</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -385,7 +385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-015</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -409,7 +409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-016</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -433,7 +433,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-017</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -457,7 +457,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-018</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -481,7 +481,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-019</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -505,7 +505,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-020</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -529,7 +529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-021</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -553,7 +553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-022</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -577,7 +577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-023</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -601,7 +601,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-024</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -625,7 +625,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-025</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -649,7 +649,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-026</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -673,7 +673,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-027</oai:identifier> 
-                <oai:datestamp>2021-09-29</oai:datestamp>
+                <oai:datestamp>2021-10-11</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -690,6 +690,30 @@
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-027</dc:identifier>
                     <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-027.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-028</oai:identifier> 
+                <oai:datestamp>2021-10-11</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>A pair of Atumpan drums</dc:title>
+                    <dc:creator>Figlio di dio</dc:creator>
+                    <dc:date>2017-01-23</dc:date><dc:description>Photograph of Atumpan drums</dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights>https://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
+                    <dc:identifier>uighana-028</dc:identifier>
+                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-028.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
