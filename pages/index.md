@@ -15,6 +15,9 @@ Which is the elder?
 
 {:.pt-4}
 This Asante proverb resonates today in the voices of the people and on the skins of the atumpan.[^1] 
+
+{% include feature/image.html objectid="uighana-028" width="50" %}
+
 The transfer of discernable language onto a musical instrument or sound producing object for the purpose of encoding a message can be defined as "speech surrogacy." 
 Speech surrogacy can serve a variety of purposes, including prayers, proverbial knowledge, and public service announcements such as alerts or warnings.[^2] 
 This technological advancement in language and instruments allowed villages to communicate with each other over long distances. 
@@ -29,26 +32,28 @@ West African languages such as Twi (spoken in Asante), Dagbani (spoken in the No
 Twi has two linguistic pitch classes while Eve has three. 
 The purpose of this essay is to introduce the limited written scholarship currently available on the adoption, history, and practices of the Akan atumpan and the Eʋe atopani.
 
-The modern day Akan people reside primarily within the Asante region of Ghana, while the Eʋe live in the Volta region of Ghana, Togo, and parts of Benin. 
-Asante is noted for being one of the most influential and historically imperial areas of what is now modern Ghana. To historically understand how the Akan came in contact with the Eʋe, we must first look at where these groups originally came from. Decoding this information is difficult and also controversial. 
-Oral histories and written reports by neighboring states, European colonists, and letters from occupying European forces and political courts of indignous African states often conflict with each other. 
-However, it is my hope to provide an objective analysis of how two states (the Akwamu Empire and the Peki Confederacy) resulted in the adoption of the Akan atumpan to become the Eʋe atopani.
+The modern day Akan people reside primarily within the Asante region of Ghana, while the Eʋe live in the Volta region of Ghana, Togo, and parts of Benin.
 
 <div class="row text-center py-4">
     <div class="col-md-12">
         <div class="card border-dark" id="atomap"></div>
     </div>
     <div class="col-md-6 px-5 pt-4">
-        <h2><a id="ashantimap" tabindex="0">Ashanti Region</a></h2>
+        <h2><a id="ashantimap" tabindex="0">Ashanti Region - Akan</a></h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
     </div>
     <div class="col-md-6 px-5 pt-4">
-        <h2><a id="voltamap" tabindex="0">Volta Region</a></h2>
+        <h2><a id="voltamap" tabindex="0">Volta Region - Eʋe</a></h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
     </div>
 </div>
 
-[Overlay the geographic information about regions of Ghana-- potentially highlighted area of Volta, Ashanti, and the Akwamu Empire and Peki (Krepi) Confederacy]
+Asante is noted for being one of the most influential and historically imperial areas of what is now modern Ghana. To historically understand how the Akan came in contact with the Eʋe, we must first look at where these groups originally came from. 
+Decoding this information is difficult and also controversial. 
+Oral histories and written reports by neighboring states, European colonists, and letters from occupying European forces and political courts of indigenous African states often conflict with each other. 
+However, it is my hope to provide an objective analysis of how two states (the Akwamu Empire and the Peki Confederacy) resulted in the adoption of the Akan atumpan to become the Eʋe atopani.
+
+## The Eʋe Journey West
 
 The Peki Eʋe migrated from Ketu, in present day Benin, to Ƞɔtsie between the Mono and Haho rivers as a product of Yoruba expansion, and then further on to Krepa (present day Peki) sometime before 1600.[^3] 
 King Togbe Agokoli was a tyrannical ruler to the Eʋe while established in Ƞɔtsie. 
@@ -56,6 +61,7 @@ According to legend, a powerful hunter named Togbi Tsali enchanted a drum to put
 They were directed to walk backwards to confuse their pursuers, eventually settling in Gbidzigbe, or present day Hohoe. 
 The etymology of the word Eʋe is believed to be derived from Togbe Eʋeyana.[^4]
 
+## A Drum's Journey East
 In 1734, Eʋeland adjacent to the volta river was encroached by Akwamu expansion from the Akan savannah of Asante. 
 Trading routes between Krepa (present day Peki) and coastal communities were halted. 
 This period of Akwamu expansion also resulted in the apprehension of slaves by Akan powers. Akan powers, such as the Akim and Akwamu, had utilized slave labor for sometime throughout their occupation of Asante, however the colonisation by the Dutch and Portuguese threw a complex political relationship between Akan supremacy over much of present day Ghana. 

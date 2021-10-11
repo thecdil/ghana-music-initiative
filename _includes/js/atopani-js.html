@@ -223,6 +223,17 @@
         }
     }).addTo(mymap);
 
+    function onEachFeature(feature, layer) {
+        // does this feature have a property named popupContent?
+        if (feature.properties && feature.properties.popupContent) {
+            layer.bindPopup(feature.properties.popupContent);
+        }
+    }
+
+    L.geoJSON(regions, {
+        onEachFeature: onEachFeature
+    }).addTo(mymap);
+
     $('#ashantimap').on('click', function(){
         mymap.flyTo([6.835572182268001, -1.4855796477743435], 9, {
         animate: true,
