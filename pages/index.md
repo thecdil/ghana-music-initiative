@@ -4,7 +4,7 @@ layout: home-infographic
 permalink: /
 ---
 
-[Introduction to research below]
+Understanding speech surrogate drums throughout West Africa is a pivotal point of research to understand not only the linguistic, musicological, and historical nuance of the tradition but to learn from the technological encoding capabilities of the practice. By narrowing our focus to the organological roots of the atopani across Asante and Peki borders, we can gain insight to how one piece of the practice was shared and adopted by different regions. 
 
 {:.pt-4}
 The path has crossed the river,
