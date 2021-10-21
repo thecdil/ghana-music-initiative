@@ -40,11 +40,11 @@ The modern day Akan people reside primarily within the Asante region of Ghana, w
     </div>
     <div class="col-md-6 px-5 pt-4">
         <h2><a id="ashantimap" tabindex="0">Ashanti Region - Akan</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
+        <p>The Asante region of Ghana is one of the largest modern administrative regions. Spanning several centuries of inhabitation, the Asante region historically delineates the succession and kingdom of the Asantehene (or King of Asante). The region once had multiple kingdoms, including the Akwamu empire that bordered the (modern) Greater Accra region.</p>
     </div>
     <div class="col-md-6 px-5 pt-4">
         <h2><a id="voltamap" tabindex="0">Volta Region - Eʋe</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
+        <p>The Volta region lies east of the Volta river and lake and spans into parts of Western Togo. Historically, the Eʋe have made their natural borders between the Volta and Mono River. Today in Ghana, most of the Eʋe live in Administrative Volta Region. The historical Krepi states that would become the Peki Confederacy in 1833 reside just south of the Volta lake.</p>
     </div>
 </div>
 
