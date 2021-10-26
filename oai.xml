@@ -6,7 +6,7 @@
                                 http://www.openarchives.org/OAI/2.0/static-repository.xsd">
     <Identify>
         <oai:repositoryName>Ghana Music and Dance Initiative</oai:repositoryName>
-        <oai:baseURL>http://gateway.institution.org/oai/thecdil.github.io//ghana-music-initiative/oai.xml</oai:baseURL>
+        <oai:baseURL>http://gateway.institution.org/oai/www.ghanamusicdance.org//oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
         <oai:earliestDatestamp>2021-10-26</oai:earliestDatestamp>
@@ -24,7 +24,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006a</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006a</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -41,14 +41,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006a</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006a.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006a.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006b</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006b</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -65,14 +65,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006b</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006b.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006b.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006c</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006c</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -89,14 +89,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006c</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006c.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006c.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006d</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006d</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -113,14 +113,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006d</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006d.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006d.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006e</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006e</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -137,14 +137,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006e</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006e.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006e.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006f</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006f</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -161,14 +161,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006f</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006f.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006f.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006g</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006g</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -185,14 +185,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006g</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006g.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006g.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006h</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006h</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -209,14 +209,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006h</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006h.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006h.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-006i</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-006i</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -233,14 +233,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-006i</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-006i.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-006i.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-007</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-007</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -257,14 +257,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-007</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-007.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-007.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-008</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-008</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -281,14 +281,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-008</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-008.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-008.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-011</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-011</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -305,14 +305,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-011</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-011.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-011.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-012</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-012</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -329,14 +329,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-012</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-012.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-012.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-013</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-013</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -353,14 +353,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-013</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-013.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-013.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-014</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-014</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -377,14 +377,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-014</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-014.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-014.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-015</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-015</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -401,14 +401,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-015</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-015.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-015.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-016</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-016</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -425,14 +425,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-016</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-016.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-016.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-017</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-017</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -449,14 +449,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-017</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-017.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-017.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-018</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-018</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -473,14 +473,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-018</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-018.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-018.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-019</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-019</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -497,14 +497,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-019</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-019.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-019.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-020</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-020</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -521,14 +521,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-020</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-020.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-020.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-021</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-021</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -545,14 +545,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-021</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-021.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-021.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-022</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-022</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -569,14 +569,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-022</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-022.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-022.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-023</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-023</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -593,14 +593,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-023</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-023.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-023.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-024</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-024</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -617,14 +617,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-024</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-024.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-024.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-025</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-025</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -641,14 +641,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-025</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-025.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-025.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-026</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-026</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -665,14 +665,14 @@
                     <dc:type>Image;MovingImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-026</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-026.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-026.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-027</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-027</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -689,14 +689,14 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>http://rightsstatements.org/vocab/NoC-US/1.0/</dc:rights>
                     <dc:identifier>uighana-027</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-027.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-027.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai:thecdil.github.io/:ghana-music-initiative/uighana-028</oai:identifier> 
+                <oai:identifier>oai:www.ghanamusicdance.org/:/uighana-028</oai:identifier> 
                 <oai:datestamp>2021-10-26</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -713,7 +713,7 @@
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights>https://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
                     <dc:identifier>uighana-028</dc:identifier>
-                    <dc:identifier>https://thecdil.github.io//ghana-music-initiative/items/uighana-028.html</dc:identifier>
+                    <dc:identifier>http://www.ghanamusicdance.org//items/uighana-028.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>

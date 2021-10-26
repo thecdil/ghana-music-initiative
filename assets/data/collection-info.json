@@ -1,6 +1,6 @@
 { 
     "title": "Ghana Music and Dance Initiative",
-    "url": "https://thecdil.github.io//ghana-music-initiative/",
+    "url": "http://www.ghanamusicdance.org//",
     "image": "https://www.lib.uidaho.edu/digital/objects/ghana-music/uighana-008.jpg", 
     "description": "A Collaboration Between the Agoo-Bi Nii Cultural Arts Center and Digital Humanities Archivists at the University of Idaho Center for Digital Inquiry and Learning",
     "publisher": { 
@@ -15,7 +15,7 @@
         "image/jpg": "17"
         
     },
-    "data": "https://thecdil.github.io//ghana-music-initiative/assets/data/datapackage.json",
+    "data": "http://www.ghanamusicdance.org//assets/data/datapackage.json",
     "last_build_date": "2021-10-26"
 }
 

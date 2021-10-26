@@ -1,10 +1,10 @@
 { "locations": [
-    { "location" : "accra", "count" : 11, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#accra" },
-    { "location" : "tamale", "count" : 4, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#tamale" },
-    { "location" : "nungua, accra", "count" : 4, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#nungua,%20accra" },
-    { "location" : "prampram", "count" : 3, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#prampram" },
-    { "location" : "dzodze", "count" : 3, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#dzodze" },
-    { "location" : "kpando", "count" : 1, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#kpando" },
-    { "location" : "kumasi", "count" : 1, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#kumasi" },
-    { "location" : "kpeve", "count" : 1, "link" : "https://thecdil.github.io//ghana-music-initiative/browse.html#kpeve" }
+    { "location" : "accra", "count" : 11, "link" : "http://www.ghanamusicdance.org//browse.html#accra" },
+    { "location" : "tamale", "count" : 4, "link" : "http://www.ghanamusicdance.org//browse.html#tamale" },
+    { "location" : "nungua, accra", "count" : 4, "link" : "http://www.ghanamusicdance.org//browse.html#nungua,%20accra" },
+    { "location" : "prampram", "count" : 3, "link" : "http://www.ghanamusicdance.org//browse.html#prampram" },
+    { "location" : "dzodze", "count" : 3, "link" : "http://www.ghanamusicdance.org//browse.html#dzodze" },
+    { "location" : "kpando", "count" : 1, "link" : "http://www.ghanamusicdance.org//browse.html#kpando" },
+    { "location" : "kumasi", "count" : 1, "link" : "http://www.ghanamusicdance.org//browse.html#kumasi" },
+    { "location" : "kpeve", "count" : 1, "link" : "http://www.ghanamusicdance.org//browse.html#kpeve" }
 ]}
