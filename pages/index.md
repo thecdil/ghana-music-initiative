@@ -4,7 +4,11 @@ layout: home-infographic
 permalink: /
 ---
 
+<<<<<<< HEAD
 Understanding speech surrogate drums throughout West Africa is a pivotal point of research to understand not only the linguistic, musicological, and historical nuance of the tradition but to learn from the technological encoding capabilities of the practice. By narrowing our focus to the organological roots of the atopani across Asante and Peki borders, we can gain insight to how one piece of the practice was shared and adopted by different regions.
+=======
+Understanding speech surrogate drums throughout West Africa is a pivotal point of research to understand not only the linguistic, musicological, and historical nuance of the tradition but to learn from the technological encoding capabilities of the practice. By narrowing our focus to the organological roots of the atopani across Asante and Peki borders, we can gain insight to how one piece of the practice was shared and adopted by different regions. 
+>>>>>>> 063ebd122ba3df3339c77b6b43baa794b84e624e
 
 {:.pt-4}
 The path has crossed the river,
@@ -39,12 +43,17 @@ The modern day Akan people reside primarily within the Asante region of Ghana, w
         <div class="card border-dark" id="atomap"></div>
     </div>
     <div class="col-md-6 px-5 pt-4">
+<<<<<<< HEAD
         <h2><a id="asantemap" tabindex="0">Asante Region - Akan</a></h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
+=======
+        <h2><a id="ashantimap" tabindex="0">Ashanti Region - Akan</a></h2>
+        <p>The Asante region of Ghana is one of the largest modern administrative regions. Spanning several centuries of inhabitation, the Asante region historically delineates the succession and kingdom of the Asantehene (or King of Asante). The region once had multiple kingdoms, including the Akwamu empire that bordered the (modern) Greater Accra region.</p>
+>>>>>>> 063ebd122ba3df3339c77b6b43baa794b84e624e
     </div>
     <div class="col-md-6 px-5 pt-4">
         <h2><a id="voltamap" tabindex="0">Volta Region - Eʋe</a></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae euismod nisi, id tincidunt est. Quisque ac ligula vitae justo mollis efficitur. Nulla a efficitur leo. Nullam quis tellus eget dolor molestie interdum in id tortor. In non venenatis turpis. Fusce scelerisque luctus justo, ut rutrum quam volutpat pulvinar. Phasellus quis gravida tellus, in molestie dolor.</p>
+        <p>The Volta region lies east of the Volta river and lake and spans into parts of Western Togo. Historically, the Eʋe have made their natural borders between the Volta and Mono River. Today in Ghana, most of the Eʋe live in Administrative Volta Region. The historical Krepi states that would become the Peki Confederacy in 1833 reside just south of the Volta lake.</p>
     </div>
 </div>
 
