@@ -27,7 +27,7 @@
     // object popup function
     function objectPopups(feature, layer) {
         // set up popup content
-        var popupTemplate = '<h4>' + feature.properties.title + '</h4><br><p>' + feature.properties.content + '</p>';
+        var popupTemplate = '<h4>' + feature.properties.title + '</h4>';
         layer.bindPopup(popupTemplate);
     }
 
@@ -214,6 +214,7 @@
         }
     }];
 
+    /*
     L.geoJSON(regions, {
         style: function(feature) {
             switch (feature.properties.location) {
@@ -222,6 +223,7 @@
             }
         }
     }).addTo(mymap);
+    */
 
     function onEachFeature(feature, layer) {
         // does this feature have a property named popupContent?
@@ -234,7 +236,7 @@
         onEachFeature: onEachFeature
     }).addTo(mymap);
 
-    $('#asantemap').on('click', function(){
+    $('#ashantimap').on('click', function(){
         mymap.flyTo([6.835572182268001, -1.4855796477743435], 9, {
         animate: true,
         easeLinearity: .5,

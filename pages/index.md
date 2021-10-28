@@ -6,6 +6,8 @@ permalink: /
 
 Understanding speech surrogate drums throughout West Africa is a pivotal point of research to understand not only the linguistic, musicological, and historical nuance of the tradition but to learn from the technological encoding capabilities of the practice. By narrowing our focus to the organological roots of the atopani across Asante and Peki borders, we can gain insight to how one piece of the practice was shared and adopted by different regions. 
 
+---
+
 {:.pt-4}
 The path has crossed the river,
 
@@ -73,8 +75,6 @@ At this point in Eʋeland, the Eʋe have discernable practices that are verified
 Such as: worship of the ancestors and chief stools, speech surrogate drums, and drum languages (such as solfege). 
 Over the period of approximately a hundred years (1734-1833), I hypothesize that Eʋe villages learned from and appropriated these specific practices introduced by Akwamu occupying forces.
 Today the atopani is practiced and learned through the use of Akan-based syllables, which has confirmed, according to many scholars, its Asante origin.[^5]
-
-[Insert photograph of modern day Peki alongside the overlapping maps of Akwamu and Peki Confederacy]
 
 Understanding the broader social relationships that would have led to a suppressed population adopting a dominating force's customs is still unclear in the case of Peki and the Akwamu empire. 
 The only information we can confirm is that prior to Akwamu occupation, the atopani and chief stools weren't found in the Volta.[^6] 
