@@ -44,7 +44,7 @@
 
 
 <!-- Analytics --> 
-<!-- Last build date: 2021-10-26 -->
+<!-- Last build date: 2021-10-28 -->
   </head>
   <body>
     <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
@@ -175,6 +175,8 @@
       <div class="container mt-4 about-contents">
     <p>Understanding speech surrogate drums throughout West Africa is a pivotal point of research to understand not only the linguistic, musicological, and historical nuance of the tradition but to learn from the technological encoding capabilities of the practice. By narrowing our focus to the organological roots of the atopani across Asante and Peki borders, we can gain insight to how one piece of the practice was shared and adopted by different regions.</p>
 
+<hr />
+
 <p class="pt-4">The path has crossed the river,</p>
 
 <p>The river has crossed the path,</p>
@@ -261,8 +263,6 @@ At this point in Eʋeland, the Eʋe have discernable practices that are verified
 Such as: worship of the ancestors and chief stools, speech surrogate drums, and drum languages (such as solfege). 
 Over the period of approximately a hundred years (1734-1833), I hypothesize that Eʋe villages learned from and appropriated these specific practices introduced by Akwamu occupying forces.
 Today the atopani is practiced and learned through the use of Akan-based syllables, which has confirmed, according to many scholars, its Asante origin.<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup></p>
-
-<p>[Insert photograph of modern day Peki alongside the overlapping maps of Akwamu and Peki Confederacy]</p>
 
 <p>Understanding the broader social relationships that would have led to a suppressed population adopting a dominating force’s customs is still unclear in the case of Peki and the Akwamu empire. 
 The only information we can confirm is that prior to Akwamu occupation, the atopani and chief stools weren’t found in the Volta.<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup> 
@@ -482,7 +482,7 @@ Furthermore, this transition and adoption period is an important step for unders
     // object popup function
     function objectPopups(feature, layer) {
         // set up popup content
-        var popupTemplate = '<h4>' + feature.properties.title + '</h4><br><p>' + feature.properties.content + '</p>';
+        var popupTemplate = '<h4>' + feature.properties.title + '</h4>';
         layer.bindPopup(popupTemplate);
     }
 
@@ -669,6 +669,7 @@ Furthermore, this transition and adoption period is an important step for unders
         }
     }];
 
+    /*
     L.geoJSON(regions, {
         style: function(feature) {
             switch (feature.properties.location) {
@@ -677,6 +678,7 @@ Furthermore, this transition and adoption period is an important step for unders
             }
         }
     }).addTo(mymap);
+    */
 
     function onEachFeature(feature, layer) {
         // does this feature have a property named popupContent?
@@ -689,7 +691,7 @@ Furthermore, this transition and adoption period is an important step for unders
         onEachFeature: onEachFeature
     }).addTo(mymap);
 
-    $('#asantemap').on('click', function(){
+    $('#ashantimap').on('click', function(){
         mymap.flyTo([6.835572182268001, -1.4855796477743435], 9, {
         animate: true,
         easeLinearity: .5,
