@@ -23,6 +23,10 @@ The team plans to travel to Ghana next summer (2022) to supplement this digital 
 
 ANCA (NGO), based in Ghana and dedicated to preserving,promoting, developing, and passing on the authentic cultural performing arts of Ghana. They provide quality journalism and information about the state of music and dance culture from around the country. The Agoo-Bi Nii Cultural Arts Center is comitted to cultivating the next generation of Ghanaian musicians by sharing the wisdom and expertise of the previous generations.
 
+## Ethnomusicology and Digital Humanities
+
+Central to the history of ethnomusicology is a deep-seated praxis that analyzes music through a colonial lens. As the practice works to objectively understand music and cultural practices, a global call for decolonization resounds in ethnomusicological and anthropological circles. Museums are ostensibly an institution that champions this old spirit of colonialism while continuing to tote the virtues of diversity and inclusion. Museum and library collections across the world are legally and financially tangled with relinquishing their collections to their original homes. However, an easy step that can empower and enable scholarly research around the world is to digitally archive documents and artifacts for institutions and individuals around the world. As Kofi Agawu states in his book, Representing African Music, he points out the unfortunate truth that the majority of what we know about indigenous African music is archived outside the continent. Bridging this divide with robust digital archival work is a small step to decolonizing the field of ethnomusicology.
+
 ## About CollectionBuilder
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
