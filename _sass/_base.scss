@@ -3,17 +3,53 @@
     these values are configurable using theme.yml > Theme Fonts area 
     or by editing base variables in custom.scss
 */
+
+/* set up base variable to override from cb.scss */
+$base-font-family: "" !default;
+$base-font-size: "" !default;
+$text-color: "" !default;
+$link-color: "" !default;
+
+/* smooth scroll for back to top, unless user opt out */
+html {
+    @media (prefers-reduced-motion: no-preference) {
+      scroll-behavior: smooth;
+    }
+}
+
+/* set font base set in theme.yml */
 body {
     @if $base-font-family != "" { font-family: $base-font-family; }
     @if $base-font-size != "" { font-size: $base-font-size; }
     @if $text-color != "" { color: $text-color; }
 }
 a {
+    /* remove link underline */ 
+    text-decoration: none;
     @if $link-color != "" { 
         color: $link-color; 
         &:hover {
             @if $text-color != "" { color: $text-color; }
         }
+    }
+}
+
+// Width of the content area
+$content-width:    1800px;
+$on-palm:          576px;
+$on-laptop:        768px;
+$on-desktop:       992px;
+$on-jumbo:        1200px;
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
     }
 }
 
