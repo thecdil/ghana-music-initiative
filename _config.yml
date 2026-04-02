@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: http://www.ghanamusicdance.org/
+url: https://thecdil.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl:
+baseurl: /ghana-music-initiative
 # location of code, the full url to your github repository
 source-code: https://github.com/thecdil/ghana-music-initiative
 
@@ -20,12 +20,12 @@ source-code: https://github.com/thecdil/ghana-music-initiative
 # title of site appears in banner
 title: Ghana Music and Dance Initiative
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: An active database of music and dance from across Ghana.
+tagline: An active database of music and dance from across Ghana
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description:  A Collaboration Between the Agoo-Bi Nii Cultural Arts Center and Digital Humanities Archivists at the University of Idaho Center for Digital Inquiry and Learning
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: ghana;dance;music;africa;ewe;akan;dagbamba;ga
+keywords: ghana; dance; music; africa; ewe; akan; dagbamba; ga
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Liam R. Marchant
 # Organization branding
