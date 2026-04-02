@@ -1,13 +1,8 @@
-# CollectionBuilder-CSV
+# ghana-music-initiative
 
-**Note: CollectionBuilder-CSV is currently in an active development phase and my differ significantly from the main CollectionBuilder documentation, including the metadata template. Please check "docs" folder in this project for up to date information.**
+The Ghana Music and Dance initiative was started as a cooperative effort from ethnomusicologists, digital librarians, and Ghanaian music specialists to actively document and preserve the sounds, dances, and traditions of Ghanaian music. Liam Marchant, Center for Digital Inquiry and Learning 2021 Undergraduate Fellow, and Professor of ethnomusicology at the University of Idaho, Barry Bilderback, connected with Habib Iddrisu from the University of Oregon to create an engaging, accessable, and easy-to-update platform for video, photography, and audio recordings collected by the Agoo-Bi Nii Center and other various repositories of Ghanaian dance and music. 
 
-CollectionBuilder-CSV is a "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-
-[Google Sheets Metadata Template](https://docs.google.com/spreadsheets/d/1nN_k4JQB4LJraIzns7WcM3OXK-xxGMQhW1shMssflNM/edit?usp=sharing)
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Note: originally hosted at ghanamusicdance.org
 
 ----------
 
